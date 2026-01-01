@@ -6,8 +6,9 @@ library("MASS")
 library("survival")
 library("ggstatsplot")
 library("tidyverse")
+library("hms")
 
-vuelos=read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_20251109_20251122.csv", stringsAsFactors = FALSE, colClasses = "character")
+vuelos<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_20251109_20251122.csv", stringsAsFactors = FALSE, colClasses = "character")
 dim(vuelos)
 summary(vuelos)
 
@@ -94,16 +95,51 @@ sum(duplicados <- duplicated(vuelos[, c("hora", "origen")]))
 # Categorizar la hora en franjas horarias
 hora_num <- as.numeric(substr(vuelos$hora, 1, 2))
 vuelos$franja_horaria <- ifelse(hora_num >= 0  & hora_num < 6,  "Madrugada",
-                                 ifelse(hora_num >= 6  & hora_num < 14, "Mañana",
-                                 ifelse(hora_num >= 14 & hora_num < 20, "Tarde",
+                                 ifelse(hora_num >= 6  & hora_num < 12, "Mañana",
+                                 ifelse(hora_num >= 12 & hora_num < 18, "Tarde",
                                  "Noche")))
 
 vuelos$franja_horaria <- factor(vuelos$franja_horaria,
                                        levels = c("Madrugada","Mañana","Tarde","Noche"))
 table(vuelos$franja_horaria)
 
-#Extraer el código IATA: primeras letras del código de vuelo
-vuelos$IATA <- substr(vuelos$vuelo, 1, 3)
+#Extraer el código ICAO: primeras letras del código de vuelo y el código IATA: letras entre paréntesis del campo origen
+vuelos$icao <- substr(vuelos$vuelo, 1, 3)
+vuelos$iata <- substr(vuelos$origen, nchar(vuelos$origen) - 3, nchar(vuelos$origen) - 1)
+vuelos[, c("origen", "iata")]
+vuelos[,c("vuelo", "icao")]
+
 #Extraer el número de vuelo: eliminar las letras y quedarnos con los números
 vuelos$numero_vuelo <- as.numeric(gsub("[A-Z]", "", vuelos$vuelo))
 head(vuelos)
+
+# Guardar el dataset limpio en un nuevo archivo CSV
+write_excel_csv2(vuelos, 
+                 "D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_limpio.csv")
+
+airpots<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airports.csv", stringsAsFactors = FALSE, colClasses = "character")
+vuelos_limpio<-read.csv2("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_limpio.csv", stringsAsFactors = FALSE, colClasses = "character")
+colnames(airpots)
+colnames(vuelos_limpio)
+
+names(vuelos_limpio)[names(vuelos_limpio) == "icao"] <- "icao_aerolinea"
+names(airpots)[names(airpots) == "icao"] <- "icao_aeropuerto"
+
+##Es necesario añadir el ID??
+vuelos_completo <- merge(vuelos_limpio, airpots, by = "iata", all.x = TRUE)
+head(vuelos_completo)
+
+
+#Para hacer el merge con las aerolíneas, hemos decidido quedarnos solamente con el código icao de la aerolínea y el nombre de la aerolínea
+#ya que el resto de identificadores nos parece redundante.
+
+airlines<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airlines.csv", stringsAsFactors = FALSE, colClasses = "character")
+airlines_sel <- airlines[, c("icao", "name", "country")]
+
+names(airlines_sel) <- c("icao_aerolinea", "name_aerolinea", "country_aerolinea")
+
+colnames(airlines_sel)
+colnames(vuelos_completo)
+vuelos_completos_final <- merge(vuelos_completo, airlines_sel, by= "icao_aerolinea", all.x = TRUE)
+head(vuelos_completos_final)
+
