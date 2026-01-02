@@ -14,17 +14,243 @@ vuelos<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CI
 dim(vuelos)
 summary(vuelos)
 
+#Extraer el código ICAO: primeras letras del código de vuelo y el código IATA: letras entre paréntesis del campo origen
+vuelos$icao_aerolinea <- substr(vuelos$vuelo, 1, 3)
+vuelos$iata_aeropuerto <- substr(vuelos$origen, nchar(vuelos$origen) - 3, nchar(vuelos$origen) - 1)
+#vuelos[, c("origen", "iata_aeropuerto")]
+#vuelos[,c("vuelo", "icao_aerolinea")]
 
+#Extraer el número de vuelo: eliminar las letras y quedarnos con los números
+vuelos$numero_vuelo <- as.numeric(gsub("[A-Z]", "", vuelos$vuelo))
+head(vuelos)
+
+# Guardar el dataset limpio en un nuevo archivo CSV
+airports<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airports.csv", stringsAsFactors = FALSE, colClasses = "character")
+#No nos interesan las columnas 1 (id) y 10 (timezone)
+airports <- airports[, -c(1, 10)]
+
+colnames(airports)
+colnames(vuelos)
+
+names(airports)[names(airports) == "icao"] <- "icao_aeropuerto"
+names(airports)[names(airports) == "iata"] <- "iata_aeropuerto"
+##Es necesario añadir el ID??
+vuelos_completo <- merge(vuelos, airports, by = "iata_aeropuerto", all.x = TRUE)
+head(vuelos_completo)
+colnames(vuelos_completo)
+
+
+#Para hacer el merge con las aerolíneas, hemos decidido quedarnos solamente con el código icao de la aerolínea y el nombre de la aerolínea
+#ya que el resto de identificadores nos parece redundante.
+
+airlines<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airlines.csv", stringsAsFactors = FALSE, colClasses = "character")
+airlines_sel <- airlines[, c("icao", "name", "country")]
+
+names(airlines_sel) <- c("icao_aerolinea", "name_aerolinea", "country_aerolinea")
+
+colnames(airlines_sel)
+colnames(vuelos_completo)
+vuelos_completos_final <- merge(vuelos_completo, airlines_sel, by= "icao_aerolinea", all.x = TRUE)
+head(vuelos_completos_final)
+
+colnames(vuelos_completos_final)
+
+
+##TRABAJAMOS AHORA PARA INTEGRAR LOS HISTÓRICOS DE ORIGEN Y DESTINO
+ruta_origen <- "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/ORGN-20260101T130728Z-3-001/ORGN"
+años <- 2022:2025
+
+lista_operaciones <- list()
+
+for (a in años) {
+  archivo <- paste0(ruta_origen, "/", a, "_OPE_ORGN.csv")
+  
+  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE,row.names = NULL)
+
+  lista_operaciones[[as.character(a)]] <- df
+}
+
+# Unir todos los años en un único dataset
+operaciones_origen <- do.call(rbind, lista_operaciones)
+
+lista_pasajeros <- list()
+
+for (a in años) {
+  archivo <- paste0(ruta_origen, "/", a, "_PAX_ORGN.csv")
+  
+  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE, row.names = NULL)
+  
+  lista_pasajeros[[as.character(a)]] <- df
+}
+
+pasajeros_origen <- do.call(rbind, lista_pasajeros)
+
+
+##TRABAJAMOS CON LOS HISTÓRICOS DE COMPAÑÍA
+ruta_compañia <- "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/COMP-20260101T130729Z-3-001/COMP"
+años <- 2022:2025
+
+lista_operaciones <- list()
+
+for (a in años) {
+  archivo <- paste0(ruta_compañia, "/", a, "_OPE_COMP.csv")
+  
+  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE,row.names = NULL)
+
+  lista_operaciones[[as.character(a)]] <- df
+}
+
+# Unir todos los años en un único dataset
+operaciones_compañia <- do.call(rbind, lista_operaciones)
+
+lista_pasajeros <- list()
+
+for (a in años) {
+  archivo <- paste0(ruta_compañia, "/", a, "_PAX_COMP.csv")
+  
+  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE, row.names = NULL)
+  
+  lista_pasajeros[[as.character(a)]] <- df
+}
+
+pasajeros_compañia <- do.call(rbind, lista_pasajeros)
+
+##Ahora vamos a tratarlos para poder hacer los merges oportunos
+
+# Renombrar columnas de aeropuerto para que sean iguales
+colnames(operaciones_origen)[colnames(operaciones_origen) == "Aeropuerto ORI/DES"] <- "Aeropuerto"
+colnames(pasajeros_origen)[colnames(pasajeros_origen) == "Aeropuerto Escala"] <- "Aeropuerto"
+
+# Ahora merge por columnas coincidentes
+historico_aeropuerto <- merge(
+  operaciones_origen,
+  pasajeros_origen,
+  by = c("Año", "Mes", "País", "Aeropuerto"),
+  all.x = TRUE
+)
+
+write_excel_csv2(historico_aeropuerto, 
+                 "D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\historico_aeropuerto.csv")
+
+# Ahora merge por columnas coincidentes
+historico_compania <- merge(
+  operaciones_compañia,
+  pasajeros_compañia,
+  by = c("Año", "Mes", "País", "Compañía"),
+  all.x = TRUE
+)
+
+write_excel_csv2(historico_compania, 
+                 "D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\historico_compania.csv")
+
+
+colnames(historico_aeropuerto)
+colnames(historico_compania)
+
+# Calcular PAX medio
+historico_aeropuerto$PAX_medio <- historico_aeropuerto$`Pasajeros Totales` / historico_aeropuerto$`Operaciones Totales`
+historico_compania$PAX_medio <- historico_compania$`Pasajeros Totales` / historico_compania$`Operaciones Totales`
+
+
+aeropuerto_iata <- read.csv(
+  "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/ORGN-20260101T130728Z-3-001/ORGN/mapping_ORGN_IATA.csv",
+  sep = ",",
+  stringsAsFactors = FALSE,
+  check.names = FALSE,
+  fileEncoding = "Windows-1252"
+)
+# Cambiar nombres de columnas
+names(aeropuerto_iata) <- c("AeropuertoEscala", "iata_aeropuerto")
+
+# Verificar
+colnames(aeropuerto_iata)
+colnames(historico_aeropuerto)
+head(aeropuerto_iata)
+
+#Añadir ahora el código IATA
+historico_aeropuerto <- merge(
+  historico_aeropuerto,
+  aeropuerto_iata,
+  by.x = "Aeropuerto",
+  by.y = "AeropuertoEscala",
+  all.x = TRUE
+)
+head(historico_aeropuerto)
+
+compañia_icao <- read.csv(
+  "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/COMP-20260101T130729Z-3-001/COMP/mapping_COMP_ICAO.csv",
+  sep = ",",
+  stringsAsFactors = FALSE,
+  check.names = FALSE,
+  fileEncoding = "Windows-1252"
+)
+
+names(compañia_icao) <- c("Compañía", "icao_aerolinea")
+colnames(compañia_icao)
+colnames(historico_compania)
+
+historico_compania <- merge(
+  historico_compania,
+  compañia_icao,
+  by = "Compañía",
+  all.x = TRUE
+)
+head(historico_compania)
+
+colnames(historico_compania)
+colnames(vuelos_completos_final)
+colnames(historico_aeropuerto)
+
+##Queremos ahora obtener la media de PAX por aerolínea y aeropuerto sin distinción de año y mes
+pax_aeropuerto <- historico_aeropuerto %>%
+  group_by(iata_aeropuerto) %>%
+  summarise(PAX_medio_aeropuerto = mean(PAX_medio, na.rm = TRUE))
+head(pax_aeropuerto)
+pax_compañia <- historico_compania %>%
+  group_by(icao_aerolinea) %>%
+  summarise(PAX_medio_compañia = mean(PAX_medio, na.rm = TRUE))
+head(pax_compañia)
+
+#Hacemos los merges oportunos para añadir la información de PAX medio al dataset final
+vuelos_completos_final <- merge(
+  vuelos_completos_final,
+  pax_aeropuerto,
+  by = "iata_aeropuerto",
+  all.x = TRUE
+)
+vuelos_completos_final <- merge(
+  vuelos_completos_final,
+  pax_compañia,
+  by = "icao_aerolinea",
+  all.x = TRUE
+)
+head(vuelos_completos_final)
+
+# Guardar el dataset limpio y enriquecido en un nuevo archivo CSV
+write_excel_csv2(vuelos_completos_final, 
+                 "D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_limpio_historico.csv")
+
+
+
+#LIMPIEZA DE DATOS
 #3. 1. ¿Los datos contienen ceros, elementos vacíos u otros valores numéricos
 #que indiquen la pérdida de datos? Gestiona cada uno de estos casos
 #utilizando el método de imputación que consideres más 
 
 problemas <- data.frame(
-  NAs    = colSums(is.na(vuelos)),
-  Vacios = colSums(vuelos == "", na.rm = TRUE)
+  NAs    = colSums(is.na(vuelos_completos_final)),
+  Vacios = colSums(vuelos_completos_final == "", na.rm = TRUE)
 )
 
 problemas
+
+#Los valores vacíos que aparecen en name, city, country, icao_aeropuerto, latitude, longitude, altitude y tz pertencen
+#al aeropuerto de BERLIN BRANDENBURG (BER) del cual no tenemos los datos pero sí la información de pasajeros medios.
+
+#Los valores vacíos que aparecen en name_aerolinea y country_aerolinea pertenecen a aerolíneasque no están registradas en la base de datos
+#de aerolíneas, por lo que no podemos imputar ningún valor. En este caso, habría que plantear cuál es la mejor solución.
+
+#En PAX_medio_aeropuerto
 
 #3.2. Identifica y gestiona adecuadamente el tipo de dato de cada atributo 
 
@@ -104,178 +330,3 @@ vuelos$franja_horaria <- ifelse(hora_num >= 0  & hora_num < 6,  "Madrugada",
 vuelos$franja_horaria <- factor(vuelos$franja_horaria,
                                        levels = c("Madrugada","Mañana","Tarde","Noche"))
 table(vuelos$franja_horaria)
-
-#Extraer el código ICAO: primeras letras del código de vuelo y el código IATA: letras entre paréntesis del campo origen
-vuelos$icao <- substr(vuelos$vuelo, 1, 3)
-vuelos$iata <- substr(vuelos$origen, nchar(vuelos$origen) - 3, nchar(vuelos$origen) - 1)
-vuelos[, c("origen", "iata")]
-vuelos[,c("vuelo", "icao")]
-
-#Extraer el número de vuelo: eliminar las letras y quedarnos con los números
-vuelos$numero_vuelo <- as.numeric(gsub("[A-Z]", "", vuelos$vuelo))
-head(vuelos)
-
-# Guardar el dataset limpio en un nuevo archivo CSV
-write_excel_csv2(vuelos, 
-                 "D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_limpio.csv")
-
-airpots<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airports.csv", stringsAsFactors = FALSE, colClasses = "character")
-vuelos_limpio<-read.csv2("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\llegadas_aeropuerto_vlc_limpio.csv", stringsAsFactors = FALSE, colClasses = "character")
-colnames(airpots)
-colnames(vuelos_limpio)
-
-names(vuelos_limpio)[names(vuelos_limpio) == "icao"] <- "icao_aerolinea"
-names(airpots)[names(airpots) == "icao"] <- "icao_aeropuerto"
-
-##Es necesario añadir el ID??
-vuelos_completo <- merge(vuelos_limpio, airpots, by = "iata", all.x = TRUE)
-head(vuelos_completo)
-
-
-#Para hacer el merge con las aerolíneas, hemos decidido quedarnos solamente con el código icao de la aerolínea y el nombre de la aerolínea
-#ya que el resto de identificadores nos parece redundante.
-
-airlines<-read.csv("D:\\MASTER CIENCIA DE DATOS\\SEGUNDO SEMESTRE\\TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS\\RETO 2\\airlines.csv", stringsAsFactors = FALSE, colClasses = "character")
-airlines_sel <- airlines[, c("icao", "name", "country")]
-
-names(airlines_sel) <- c("icao_aerolinea", "name_aerolinea", "country_aerolinea")
-
-colnames(airlines_sel)
-colnames(vuelos_completo)
-vuelos_completos_final <- merge(vuelos_completo, airlines_sel, by= "icao_aerolinea", all.x = TRUE)
-head(vuelos_completos_final)
-
-colnames(vuelos_completos_final)
-
-
-##TRABAJAMOS CON LOS HISTÓRICOS DE ORIGEN Y DESTINO
-ruta_origen <- "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/ORGN-20260101T130728Z-3-001/ORGN"
-años <- 2022:2025
-
-lista_operaciones <- list()
-
-for (a in años) {
-  archivo <- paste0(ruta_origen, "/", a, "_OPE_ORGN.csv")
-  
-  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE,row.names = NULL)
-
-  lista_operaciones[[as.character(a)]] <- df
-}
-
-# Unir todos los años en un único dataset
-operaciones_origen <- do.call(rbind, lista_operaciones)
-
-lista_pasajeros <- list()
-
-for (a in años) {
-  archivo <- paste0(ruta_origen, "/", a, "_PAX_ORGN.csv")
-  
-  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE, row.names = NULL)
-  
-  lista_pasajeros[[as.character(a)]] <- df
-}
-
-pasajeros_origen <- do.call(rbind, lista_pasajeros)
-
-
-##TRABAJAMOS CON LOS HISTÓRICOS DE COMPAÑÍA
-ruta_compañia <- "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/COMP-20260101T130729Z-3-001/COMP"
-años <- 2022:2025
-
-lista_operaciones <- list()
-
-for (a in años) {
-  archivo <- paste0(ruta_compañia, "/", a, "_OPE_COMP.csv")
-  
-  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE,row.names = NULL)
-
-  lista_operaciones[[as.character(a)]] <- df
-}
-
-# Unir todos los años en un único dataset
-operaciones_compañia <- do.call(rbind, lista_operaciones)
-
-lista_pasajeros <- list()
-
-for (a in años) {
-  archivo <- paste0(ruta_compañia, "/", a, "_PAX_COMP.csv")
-  
-  df <- read.csv(archivo, fileEncoding = "UTF-16", stringsAsFactors = FALSE, check.names = FALSE, row.names = NULL)
-  
-  lista_pasajeros[[as.character(a)]] <- df
-}
-
-pasajeros_compañia <- do.call(rbind, lista_pasajeros)
-
-##Ahora vamos a tratarlos para poder hacer los merges oportunos
-
-# Renombrar columnas de aeropuerto para que sean iguales
-colnames(operaciones_origen)[colnames(operaciones_origen) == "Aeropuerto ORI/DES"] <- "Aeropuerto"
-colnames(pasajeros_origen)[colnames(pasajeros_origen) == "Aeropuerto Escala"] <- "Aeropuerto"
-
-# Ahora merge por columnas coincidentes
-historico_aeropuerto <- merge(
-  operaciones_origen,
-  pasajeros_origen,
-  by = c("Año", "Mes", "País", "Aeropuerto"),
-  all.x = TRUE
-)
-
-
-# Ahora merge por columnas coincidentes
-historico_compania <- merge(
-  operaciones_compañia,
-  pasajeros_compañia,
-  by = c("Año", "Mes", "País", "Compañía"),
-  all.x = TRUE
-)
-
-head(historico_aeropuerto)
-head(historico_compania)
-
-# Calcular PAX medio
-historico_aeropuerto$PAX_medio <- historico_aeropuerto$`Pasajeros Totales` / historico_aeropuerto$`Operaciones Totales`
-
-#aeropuerto_iata<-read.csv("D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/ORGN-20260101T130728Z-3-001/ORGN/mapping_ORGN_IATA.csv", stringsAsFactors = FALSE, colClasses = "character")
-aeropuerto_iata <- read.csv(
-  "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/ORGN-20260101T130728Z-3-001/ORGN/mapping_ORGN_IATA.csv",
-  sep = ",",
-  stringsAsFactors = FALSE,
-  check.names = FALSE,
-  fileEncoding = "Windows-1252"
-)
-# Cambiar nombres de columnas
-names(aeropuerto_iata) <- c("AeropuertoEscala", "iata")
-
-# Verificar
-colnames(aeropuerto_iata)
-colnames(historico_aeropuerto)
-head(aeropuerto_iata)
-
-#Añadir ahora el código IATA
-historico_aeropuerto <- merge(
-  historico_aeropuerto,
-  aeropuerto_iata,
-  by.x = "Aeropuerto",
-  by.y = "AeropuertoEscala",
-  all.x = TRUE
-)
-head(historico_aeropuerto)
-
-compañia_icao <- read.csv(
-  "D:/MASTER CIENCIA DE DATOS/SEGUNDO SEMESTRE/TIPOLOGÍA Y CICLO DE VIDA DE LOS DATOS/RETO 2/COMP-20260101T130729Z-3-001/COMP/mapping_COMP_ICAO.csv",
-  sep = ",",
-  stringsAsFactors = FALSE,
-  check.names = FALSE,
-  fileEncoding = "Windows-1252"
-)
-colnames(compañia_icao)
-colnames(historico_compania)
-
-historico_compania <- merge(
-  historico_compania,
-  compañia_icao,
-  by = "Compañía",
-  all.x = TRUE
-)
-head(historico_compania)
