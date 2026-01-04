@@ -1,0 +1,1378 @@
+Fecha,Hora,Vuelo,Origen,Estado,Aerolinea,Pais_Aerolinea,Aeropuerto,Ciudad,Pais_Origen,IATA,ICAO_Cia,PAX_Estimado,Franja_Horaria
+2025-11-09,10:43,RYR5034,MARRAKECH (RAK),Finalizado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Mañana
+2025-11-09,10:50,RYR497,MILAN/BERGAMO (BGY),Finalizado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-09,10:39,THY1301,ESTAMBUL (IST),Finalizado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-09,10:53,DLH1840,MUNICH (MUC),Finalizado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Mañana
+2025-11-09,10:49,EZY8009,LONDRES /GATWICK (LGW),Finalizado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-09,11:40,TAP1092,LISBOA (LIS),Aproximándose,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Mañana
+2025-11-09,11:22,AEA4007,PALMA DE MALLORCA (PMI),Entrega equip.,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-09,11:28,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),Entrega equip.,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-09,11:30,SWR2140,ZURICH (ZRH),Aproximándose,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-09,12:00,BEL3751,BRUSELAS (BRU),En vuelo,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Tarde
+2025-11-09,11:55,AFR1416,PARIS /CHARLES DE GAULLE (CDG),En vuelo,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Mañana
+2025-11-09,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),En vuelo,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-09,12:10,DLH1160,FRANKFURT (FRA),En vuelo,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-09,12:05,VOE3582,ASTURIAS (OVD),En vuelo,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-09,12:25,VLG8352,AMSTERDAM /SCHIPHOL (AMS),En vuelo,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-09,12:30,AUA431,VIENA (VIE),En vuelo,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-09,12:25,RYR2301,BUDAPEST (BUD),En vuelo,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-09,12:55,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-09,13:00,RYR2229,CRACOVIA (KRK),En vuelo,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Tarde
+2025-11-09,13:15,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-09,13:10,VLG3103,TENERIFE NORTE-C. LA LAGUNA (TFN),En vuelo,Vueling Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,VLG,152,Tarde
+2025-11-09,13:35,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-09,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-09,14:10,VLG8153,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Tarde
+2025-11-09,14:10,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-09,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-09,14:50,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Tarde
+2025-11-09,14:55,RYR2215,SANTANDER-SEVE BALLESTEROS (SDR),No informado,RYANAIR DAC,Ireland,Santander Airport,Santander,Spain,SDR,RYR,170,Tarde
+2025-11-09,15:10,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-09,15:10,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Tarde
+2025-11-09,15:25,VLG3952,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Tarde
+2025-11-09,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-09,16:10,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Tarde
+2025-11-09,16:15,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-09,16:15,AEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Tarde
+2025-11-09,16:20,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-09,16:40,RYR1092,EDIMBURGO (EDI),No informado,RYANAIR DAC,Ireland,Edinburgh Airport,Edinburgh,United Kingdom,EDI,RYR,170,Tarde
+2025-11-09,17:05,IBE1081,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Tarde
+2025-11-09,17:05,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Tarde
+2025-11-09,17:05,VLG3964,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-09,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-09,17:20,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-09,17:25,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-09,17:30,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-09,17:45,DLH2640,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Tarde
+2025-11-09,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-09,18:05,RYR1699,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-09,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-09,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-09,18:40,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-09,18:40,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Noche
+2025-11-09,18:50,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Noche
+2025-11-09,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-09,19:05,EWG538,KOELN/BONN (CGN),No informado,Eurowings,Germany,Cologne Bonn Airport,Cologne,Germany,CGN,EWG,108,Noche
+2025-11-09,19:05,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-09,19:15,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-09,19:15,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-09,19:25,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Noche
+2025-11-09,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-09,19:35,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Noche
+2025-11-09,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-09,19:55,TVF4628,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Noche
+2025-11-09,20:00,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Noche
+2025-11-09,20:10,ASL592,BELGRADO (BEG),No informado,Spurling Aviation,United States,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-09,20:10,ASL592,BELGRADO (BEG),No informado,Air Serbia,Serbia,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-09,20:10,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-09,20:15,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Noche
+2025-11-09,20:20,RYR8712,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Noche
+2025-11-09,20:25,VLG6243,ROMA /FIUMICINO (FCO),No informado,Vueling Airlines,Spain,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,VLG,152,Noche
+2025-11-09,20:30,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-09,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-09,20:40,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-09,20:50,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Noche
+2025-11-09,20:50,EZY6499,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-09,21:10,RYR7267,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-09,21:15,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-09,21:20,TVS1054,PRAGA (PRG),No informado,Travel Service,Czech Republic,Václav Havel Airport Prague,Prague,Czech Republic,PRG,TVS,118,Noche
+2025-11-09,21:35,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-09,21:40,ANE8052,(GRX),No informado,Air Nostrum,Spain,Federico Garcia Lorca Airport,Granada,Spain,GRX,ANE,60,Noche
+2025-11-09,21:50,VLG3954,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-09,22:00,IBE2376,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Iberia Airlines,Spain,Barcelona International Airport,Barcelona,Spain,BCN,IBE,1,Noche
+2025-11-09,22:20,IBE2441,MENORCA (MAH),No informado,Iberia Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,IBE,1,Noche
+2025-11-09,22:40,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-09,22:55,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-09,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-09,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-09,23:25,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-09,23:30,TAP1096,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Noche
+2025-11-09,23:35,IBE2380,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Noche
+2025-11-09,23:35,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-10,00:05,IBE1083,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-10,00:10,RYR3791,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Madrugada
+2025-11-10,00:15,IBE2404,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Madrugada
+2025-11-10,00:20,VLG8350,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Madrugada
+2025-11-10,00:25,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Madrugada
+2025-11-10,00:35,VLG8921,BRUSELAS (BRU),No informado,Vueling Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,VLG,152,Madrugada
+2025-11-10,00:55,RYR1772,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Madrugada
+2025-11-10,07:45,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-10,08:00,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-10,08:05,AEA4063,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Mañana
+2025-11-10,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-10,08:20,RYR1848,MEMMINGEN (FMM),No informado,RYANAIR DAC,Ireland,Memmingen Allgau Airport,Memmingen,Germany,FMM,RYR,170,Mañana
+2025-11-10,08:40,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Mañana
+2025-11-10,08:45,VLG3950,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Mañana
+2025-11-10,08:45,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-10,09:00,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-10,09:05,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Mañana
+2025-11-10,09:05,IBE1079,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Mañana
+2025-11-10,09:05,RYR4741,POZNAN /LAWICA (POZ),No informado,RYANAIR DAC,Ireland,Poznań-Ławica Airport,Poznan,Poland,POZ,RYR,170,Mañana
+2025-11-10,09:10,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Mañana
+2025-11-10,09:10,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-10,09:15,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-10,09:35,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-10,09:55,TRA6337,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-10,09:55,RYR1714,NANTES-ATLANTIQUE (NTE),No informado,RYANAIR DAC,Ireland,Nantes Atlantique Airport,Nantes,France,NTE,RYR,170,Mañana
+2025-11-10,10:15,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-10,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-10,11:10,EZY8009,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-10,11:10,TAP1092,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Mañana
+2025-11-10,11:20,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-10,11:30,VLG8153,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-10,11:35,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-10,11:35,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Mañana
+2025-11-10,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-10,11:45,VOE2656,LYON (LYS),No informado,VOLOTEA Airways,Spain,Lyon Saint-Exupéry Airport,Lyon,France,LYS,VOE,150,Mañana
+2025-11-10,11:50,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Mañana
+2025-11-10,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-10,12:05,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-10,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-10,12:10,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-10,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-10,12:15,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-10,12:20,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Tarde
+2025-11-10,12:20,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Tarde
+2025-11-10,12:25,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-10,12:30,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-10,12:45,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Tarde
+2025-11-10,12:45,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-10,12:50,NIA6101,(CAI),No informado,Nile Air,Egypt,Cairo International Airport,Cairo,Egypt,CAI,NIA,NA,Tarde
+2025-11-10,13:00,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-10,13:35,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-10,13:45,IBE2313,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Tarde
+2025-11-10,14:00,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-10,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-10,14:20,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-10,14:30,TVF4624,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Tarde
+2025-11-10,14:35,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Tarde
+2025-11-10,14:40,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-10,14:55,RYR9001,PARIS /BEAUVAIS-TILLE (BVA),No informado,RYANAIR DAC,Ireland,Paris Beauvais Tillé Airport,Beauvais,France,BVA,RYR,170,Tarde
+2025-11-10,15:00,VLG4143,(FAO),No informado,Vueling Airlines,Spain,Faro Airport,Faro,Portugal,FAO,VLG,152,Tarde
+2025-11-10,15:15,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-10,15:25,EZS1031,BASEL /MULHOUSE (BSL),No informado,EasyJet Switzerland,Switzerland,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,EZS,155,Tarde
+2025-11-10,15:35,RYR9380,BIRMINGHAM / INTERNACIONAL (BHX),No informado,RYANAIR DAC,Ireland,Birmingham International Airport,Birmingham,United Kingdom,BHX,RYR,170,Tarde
+2025-11-10,15:35,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Tarde
+2025-11-10,15:40,RYR5372,FEZ /SAIS (FEZ),No informado,RYANAIR DAC,Ireland,Saïss Airport,Fes,Morocco,FEZ,RYR,170,Tarde
+2025-11-10,15:45,IBE2395,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-10,15:50,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-10,16:00,IBE2441,MENORCA (MAH),No informado,Iberia Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,IBE,1,Tarde
+2025-11-10,16:05,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-10,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-10,16:15,AEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Tarde
+2025-11-10,16:50,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-10,17:05,IBE1081,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Tarde
+2025-11-10,17:10,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-10,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-10,17:20,VLG8921,BRUSELAS (BRU),No informado,Vueling Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,VLG,152,Tarde
+2025-11-10,17:25,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-10,17:25,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Tarde
+2025-11-10,17:30,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-10,17:30,TAP1094,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Tarde
+2025-11-10,17:30,VLG1175,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Tarde
+2025-11-10,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-10,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-10,18:00,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-10,18:30,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-10,18:35,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Noche
+2025-11-10,18:40,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Noche
+2025-11-10,18:50,EJU7899,AMSTERDAM /SCHIPHOL (AMS),No informado,EasyJet,United Kingdom,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EJU,159,Noche
+2025-11-10,18:55,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Noche
+2025-11-10,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-10,19:10,LGL763,LUXEMBURGO (LUX),No informado,Luxair,Luxembourg,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,LGL,61,Noche
+2025-11-10,19:10,RYR7340,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Noche
+2025-11-10,19:20,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Noche
+2025-11-10,19:30,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Noche
+2025-11-10,19:30,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-10,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-10,19:45,VLG3103,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Vueling Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,VLG,152,Noche
+2025-11-10,20:00,IBE2376,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Iberia Airlines,Spain,Barcelona International Airport,Barcelona,Spain,BCN,IBE,1,Noche
+2025-11-10,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-10,20:05,IBE2393,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-10,20:25,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-10,20:30,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Noche
+2025-11-10,20:35,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-10,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-10,20:35,RYR1971,TENERIFE SUR (TFS),No informado,RYANAIR DAC,Ireland,Tenerife South Airport,Tenerife,Spain,TFS,RYR,170,Noche
+2025-11-10,20:40,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-10,20:45,VLG3964,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Noche
+2025-11-10,21:05,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-10,21:05,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-10,21:10,VOE3816,A CORUÑA (LCG),No informado,VOLOTEA Airways,Spain,A Coruña Airport,La Coruna,Spain,LCG,VOE,150,Noche
+2025-11-10,21:20,TVS1054,PRAGA (PRG),No informado,Travel Service,Czech Republic,Václav Havel Airport Prague,Prague,Czech Republic,PRG,TVS,118,Noche
+2025-11-10,21:40,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Noche
+2025-11-10,21:45,RYR6415,PESCARA (PSR),No informado,RYANAIR DAC,Ireland,Pescara International Airport,Pescara,Italy,PSR,RYR,170,Noche
+2025-11-10,21:55,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-10,22:00,RYR2646,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Noche
+2025-11-10,22:10,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-10,22:25,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-10,22:35,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-10,22:40,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-10,22:55,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-10,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-10,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-10,23:15,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-10,23:20,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-10,23:30,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-10,23:35,IBE2380,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Noche
+2025-11-10,23:35,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-10,23:40,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-11,00:05,IBE1083,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-11,00:20,VLG8350,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Madrugada
+2025-11-11,00:25,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Madrugada
+2025-11-11,00:30,RYR2271,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Madrugada
+2025-11-11,08:05,AEA4063,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Mañana
+2025-11-11,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-11,08:55,VLG8151,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-11,09:05,IBE1079,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Mañana
+2025-11-11,09:05,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-11,09:15,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-11,09:20,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-11,09:50,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-11,10:05,VLG5791,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Mañana
+2025-11-11,10:25,VLG3950,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Mañana
+2025-11-11,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-11,10:50,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Mañana
+2025-11-11,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-11,10:55,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Mañana
+2025-11-11,11:00,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-11,11:05,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-11,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-11,11:45,VLG5713,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Mañana
+2025-11-11,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-11,12:05,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-11,12:05,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-11,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-11,12:40,AUA431,VIENA (VIE),No informado,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-11,12:45,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-11,13:05,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-11,13:30,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Tarde
+2025-11-11,13:35,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-11,14:00,VLG1175,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Tarde
+2025-11-11,14:35,VLG5980,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Tarde
+2025-11-11,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-11,15:50,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-11,15:55,MEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Middle East Airlines,Lebanon,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,MEA,0,Tarde
+2025-11-11,16:05,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Tarde
+2025-11-11,16:10,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-11,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-11,16:15,QTR6541,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Tarde
+2025-11-11,16:15,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-11,16:35,RYR705,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Tarde
+2025-11-11,16:45,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-11,17:05,QTR6883,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Tarde
+2025-11-11,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-11,17:30,AZU7352,LISBOA (LIS),No informado,Azul,Brazil,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,AZU,0,Tarde
+2025-11-11,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-11,17:45,TRA6443,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Tarde
+2025-11-11,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-11,19:10,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-11,19:25,RYR8109,CORK (ORK),No informado,RYANAIR DAC,Ireland,Cork Airport,Cork,Ireland,ORK,RYR,170,Noche
+2025-11-11,19:35,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-11,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-11,19:35,WMT3567,TIMISOARA (TSR),No informado,Wizz Air Malta,Malta,Timişoara Traian Vuia Airport,Timisoara,Romania,TSR,WMT,198,Noche
+2025-11-11,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-11,20:00,FIN5583,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Finnair,Finland,Barcelona International Airport,Barcelona,Spain,BCN,FIN,0,Noche
+2025-11-11,20:05,IBE2393,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-11,20:35,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-11,20:40,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-11,20:55,VLG5800,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-11,21:00,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-11,21:30,WMT5155,TIRANA (TIA),No informado,Wizz Air Malta,Malta,Tirana International Airport Mother Teresa,Tirana,Albania,TIA,WMT,198,Noche
+2025-11-11,21:45,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-11,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-11,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-11,23:25,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-11,23:35,VLG5780,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Noche
+2025-11-12,00:05,RAM5441,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Royal Air Maroc,Morocco,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,RAM,33,Madrugada
+2025-11-12,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-12,08:05,ETD7519,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Etihad Airways,United Arab Emirates,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ETD,0,Mañana
+2025-11-12,08:15,VLG5782,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Mañana
+2025-11-12,08:35,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-12,08:45,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Mañana
+2025-11-12,08:45,VLG8151,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-12,09:05,IBE1079,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Mañana
+2025-11-12,09:05,KLM2659,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Mañana
+2025-11-12,09:10,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-12,09:15,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-12,10:00,RYR1092,EDIMBURGO (EDI),No informado,RYANAIR DAC,Ireland,Edinburgh Airport,Edinburgh,United Kingdom,EDI,RYR,170,Mañana
+2025-11-12,10:05,VLG5791,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Mañana
+2025-11-12,10:25,IBE5546,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Mañana
+2025-11-12,10:50,ITY9006,ROMA /FIUMICINO (FCO),No informado,ITA Airways,Italy,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,ITY,0,Mañana
+2025-11-12,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-12,11:00,VLG5833,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Mañana
+2025-11-12,11:10,KLJ3948,BOLONIA (BLQ),No informado,JSC Klasjet,Lithuania,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,KLJ,NA,Mañana
+2025-11-12,11:15,AZU7351,LISBOA (LIS),No informado,Azul,Brazil,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,AZU,0,Mañana
+2025-11-12,11:15,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Mañana
+2025-11-12,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-12,11:45,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-12,11:45,VLG5713,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Mañana
+2025-11-12,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-12,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-12,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-12,12:10,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-12,12:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-12,12:20,VLG8921,BRUSELAS (BRU),No informado,Vueling Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,VLG,152,Tarde
+2025-11-12,12:45,RYR705,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Tarde
+2025-11-12,12:55,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-12,13:05,RYR9237,SOFIA (SOF),No informado,RYANAIR DAC,Ireland,Sofia,Sofia,Bulgaria,SOF,RYR,170,Tarde
+2025-11-12,13:05,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-12,14:20,VLG3964,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-12,14:20,VLG5819,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Tarde
+2025-11-12,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-12,15:15,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-12,16:00,IBE2441,MENORCA (MAH),No informado,Iberia Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,IBE,1,Tarde
+2025-11-12,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-12,16:15,CES4976,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,China Eastern Airlines,China,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,CES,0,Tarde
+2025-11-12,16:15,VLG5784,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Tarde
+2025-11-12,17:05,AAL8714,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,American Airlines,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AAL,0,Tarde
+2025-11-12,17:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-12,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-12,17:10,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-12,17:20,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-12,17:30,IBE5674,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Tarde
+2025-11-12,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-12,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-12,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-12,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-12,18:30,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-12,18:40,BAW8067,LONDRES /GATWICK (LGW),No informado,British Airways,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,BAW,96,Noche
+2025-11-12,18:45,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-12,18:50,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Noche
+2025-11-12,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-12,19:05,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Noche
+2025-11-12,19:25,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Noche
+2025-11-12,19:45,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-12,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-12,20:00,VLG5776,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Vueling Airlines,Spain,Barcelona International Airport,Barcelona,Spain,BCN,VLG,152,Noche
+2025-11-12,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-12,20:05,IBE2393,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-12,20:05,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-12,20:15,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-12,20:30,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-12,20:30,IBE5554,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Noche
+2025-11-12,20:35,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-12,20:45,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-12,20:55,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-12,21:10,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-12,22:45,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-12,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-12,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-12,23:20,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-12,23:25,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Noche
+2025-11-12,23:30,TAP1096,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Noche
+2025-11-12,23:35,QTR8074,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Noche
+2025-11-13,00:05,AVA6096,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Avianca,Colombia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AVA,0,Madrugada
+2025-11-13,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-13,07:50,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-13,07:55,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-13,08:05,ETD7519,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Etihad Airways,United Arab Emirates,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ETD,0,Mañana
+2025-11-13,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-13,08:25,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-13,08:55,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-13,09:00,ASL590,BELGRADO (BEG),No informado,Spurling Aviation,United States,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Mañana
+2025-11-13,09:00,ASL590,BELGRADO (BEG),No informado,Air Serbia,Serbia,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Mañana
+2025-11-13,09:05,AAL8715,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,American Airlines,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AAL,0,Mañana
+2025-11-13,09:05,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Mañana
+2025-11-13,09:05,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-13,09:05,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-13,09:10,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Mañana
+2025-11-13,09:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-13,09:20,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-13,09:20,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-13,09:25,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Mañana
+2025-11-13,09:45,RYR4741,POZNAN /LAWICA (POZ),No informado,RYANAIR DAC,Ireland,Poznań-Ławica Airport,Poznan,Poland,POZ,RYR,170,Mañana
+2025-11-13,09:55,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-13,10:20,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Mañana
+2025-11-13,10:25,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-13,10:35,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-13,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-13,10:55,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-13,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-13,10:55,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Mañana
+2025-11-13,11:00,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-13,11:00,DLH1840,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Mañana
+2025-11-13,11:15,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Mañana
+2025-11-13,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-13,11:35,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Mañana
+2025-11-13,11:45,IBE2313,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Mañana
+2025-11-13,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-13,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-13,12:15,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-13,12:20,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-13,12:25,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Tarde
+2025-11-13,12:25,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-13,12:25,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-13,12:40,AUA431,VIENA (VIE),No informado,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-13,13:30,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Tarde
+2025-11-13,14:00,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-13,14:10,SWR2142,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-13,14:35,VLG5791,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-13,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-13,15:25,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-13,15:30,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-13,15:40,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Tarde
+2025-11-13,15:50,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-13,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-13,16:15,AMX6858,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Tarde
+2025-11-13,16:20,QTR6541,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Tarde
+2025-11-13,16:40,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Tarde
+2025-11-13,16:55,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Tarde
+2025-11-13,17:00,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-13,17:05,AAL8714,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,American Airlines,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AAL,0,Tarde
+2025-11-13,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-13,17:15,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-13,17:25,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-13,17:30,TAP1094,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Tarde
+2025-11-13,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-13,18:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-13,18:25,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-13,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-13,18:30,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-13,18:45,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-13,18:50,TRA6441,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Noche
+2025-11-13,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-13,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-13,19:45,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Noche
+2025-11-13,19:45,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-13,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-13,19:50,EWG2530,STUTTGART (STR),No informado,Eurowings,Germany,Stuttgart Airport,Stuttgart,Germany,STR,EWG,108,Noche
+2025-11-13,20:00,IBE2376,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Iberia Airlines,Spain,Barcelona International Airport,Barcelona,Spain,BCN,IBE,1,Noche
+2025-11-13,20:05,IBE2393,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-13,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-13,20:40,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-13,20:45,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-13,20:45,VLG3968,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Noche
+2025-11-13,20:45,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-13,20:55,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-13,21:10,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Noche
+2025-11-13,21:20,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-13,21:20,EWG3014,PRAGA (PRG),No informado,Eurowings,Germany,Václav Havel Airport Prague,Prague,Czech Republic,PRG,EWG,108,Noche
+2025-11-13,21:20,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Noche
+2025-11-13,21:50,VLG1177,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Noche
+2025-11-13,21:50,VLG3954,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-13,22:15,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Noche
+2025-11-13,22:20,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-13,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-13,23:10,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-13,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-13,23:30,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-13,23:35,QTR8074,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Noche
+2025-11-13,23:35,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-13,23:40,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-13,23:45,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-13,23:50,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-14,00:05,RAM5441,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Royal Air Maroc,Morocco,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,RAM,33,Madrugada
+2025-11-14,00:05,VLG8350,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Madrugada
+2025-11-14,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-14,07:50,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-14,08:00,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-14,08:05,AMX6982,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Mañana
+2025-11-14,08:10,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-14,08:15,VOE2656,LYON (LYS),No informado,VOLOTEA Airways,Spain,Lyon Saint-Exupéry Airport,Lyon,France,LYS,VOE,150,Mañana
+2025-11-14,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-14,08:25,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-14,08:40,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Mañana
+2025-11-14,08:50,LGL763,LUXEMBURGO (LUX),No informado,Luxair,Luxembourg,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,LGL,61,Mañana
+2025-11-14,08:50,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Mañana
+2025-11-14,08:55,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-14,09:00,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Mañana
+2025-11-14,09:05,VLG5580,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Vueling Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,VLG,152,Mañana
+2025-11-14,09:10,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Mañana
+2025-11-14,09:10,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-14,09:15,VOE2436,BURDEOS (BOD),No informado,VOLOTEA Airways,Spain,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,VOE,150,Mañana
+2025-11-14,09:20,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Mañana
+2025-11-14,09:35,TRA6335,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-14,09:40,RYR5372,FEZ /SAIS (FEZ),No informado,RYANAIR DAC,Ireland,Saïss Airport,Fes,Morocco,FEZ,RYR,170,Mañana
+2025-11-14,09:45,RYR2271,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Mañana
+2025-11-14,09:50,EJU7899,AMSTERDAM /SCHIPHOL (AMS),No informado,EasyJet,United Kingdom,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EJU,159,Mañana
+2025-11-14,09:50,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-14,10:25,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Mañana
+2025-11-14,10:25,EZY8011,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-14,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-14,11:00,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-14,11:00,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Mañana
+2025-11-14,11:05,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-14,11:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-14,11:15,AZU7351,LISBOA (LIS),No informado,Azul,Brazil,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,AZU,0,Mañana
+2025-11-14,11:20,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Mañana
+2025-11-14,11:25,DLH1840,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Mañana
+2025-11-14,11:30,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-14,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-14,11:50,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Mañana
+2025-11-14,11:50,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Mañana
+2025-11-14,11:55,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-14,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-14,12:05,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-14,12:10,RYR9001,PARIS /BEAUVAIS-TILLE (BVA),No informado,RYANAIR DAC,Ireland,Paris Beauvais Tillé Airport,Beauvais,France,BVA,RYR,170,Tarde
+2025-11-14,12:20,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-14,12:45,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-14,12:45,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Tarde
+2025-11-14,12:55,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Tarde
+2025-11-14,13:05,VOE3816,A CORUÑA (LCG),No informado,VOLOTEA Airways,Spain,A Coruña Airport,La Coruna,Spain,LCG,VOE,150,Tarde
+2025-11-14,13:20,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-14,13:20,VLG3968,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-14,13:25,RYR2215,SANTANDER-SEVE BALLESTEROS (SDR),No informado,RYANAIR DAC,Ireland,Santander Airport,Santander,Spain,SDR,RYR,170,Tarde
+2025-11-14,13:30,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-14,13:30,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-14,14:00,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-14,14:05,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-14,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-14,14:15,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Tarde
+2025-11-14,14:30,VLG5841,MENORCA (MAH),No informado,Vueling Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,VLG,152,Tarde
+2025-11-14,14:30,TVF4628,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Tarde
+2025-11-14,14:45,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-14,14:55,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-14,14:55,IBE5847,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Tarde
+2025-11-14,16:05,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-14,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-14,16:15,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Tarde
+2025-11-14,16:15,ETD7591,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Etihad Airways,United Arab Emirates,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ETD,0,Tarde
+2025-11-14,16:20,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Tarde
+2025-11-14,16:45,IBE2311,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Tarde
+2025-11-14,16:45,EZS1031,BASEL /MULHOUSE (BSL),No informado,EasyJet Switzerland,Switzerland,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,EZS,155,Tarde
+2025-11-14,16:50,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Tarde
+2025-11-14,16:55,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Tarde
+2025-11-14,16:55,VLG3964,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-14,17:05,QTR6883,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Tarde
+2025-11-14,17:10,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-14,17:10,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-14,17:10,RYR9331,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-14,17:10,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-14,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-14,17:30,RYR7340,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Tarde
+2025-11-14,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-14,17:40,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-14,17:45,RYR2080,TOULOUSE (TLS),No informado,RYANAIR DAC,Ireland,Toulouse-Blagnac Airport,Toulouse,France,TLS,RYR,170,Tarde
+2025-11-14,17:50,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-14,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-14,17:55,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-14,18:00,VLG3952,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-14,18:20,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Noche
+2025-11-14,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-14,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-14,19:00,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Noche
+2025-11-14,19:00,RYR1699,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-14,19:05,EWG538,KOELN/BONN (CGN),No informado,Eurowings,Germany,Cologne Bonn Airport,Cologne,Germany,CGN,EWG,108,Noche
+2025-11-14,19:10,TRA5107,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-14,19:15,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-14,19:20,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-14,19:35,IBE5247,GRAN CANARIA (LPA),No informado,Iberia Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBE,1,Noche
+2025-11-14,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-14,19:45,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-14,20:00,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-14,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-14,20:15,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Noche
+2025-11-14,20:25,QTR4678,ROMA /FIUMICINO (FCO),No informado,Qatar Airways,Qatar,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,QTR,0,Noche
+2025-11-14,20:30,KLM2523,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-14,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-14,20:40,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-14,20:45,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-14,21:20,EWG3014,PRAGA (PRG),No informado,Eurowings,Germany,Václav Havel Airport Prague,Prague,Czech Republic,PRG,EWG,108,Noche
+2025-11-14,21:45,RYR638,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-14,21:50,VLG3954,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-14,21:55,RYR2646,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Noche
+2025-11-14,22:00,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-14,22:15,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-14,22:55,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-14,23:00,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-14,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-14,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-14,23:10,RYR7267,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-14,23:10,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-14,23:20,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Noche
+2025-11-14,23:30,RZO8728,LISBOA (LIS),No informado,SATA International,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RZO,0,Noche
+2025-11-14,23:30,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-14,23:35,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-14,23:35,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-14,23:45,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-14,23:55,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Noche
+2025-11-15,00:05,IBE1083,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-15,00:35,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Madrugada
+2025-11-15,07:55,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Mañana
+2025-11-15,07:55,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-15,08:00,RYR6415,PESCARA (PSR),No informado,RYANAIR DAC,Ireland,Pescara International Airport,Pescara,Italy,PSR,RYR,170,Mañana
+2025-11-15,08:05,ETD7519,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Etihad Airways,United Arab Emirates,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ETD,0,Mañana
+2025-11-15,08:25,TRA6333,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-15,08:30,RYR638,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Mañana
+2025-11-15,08:30,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-15,08:45,IBE5546,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Mañana
+2025-11-15,09:00,WMT3723,IASI (IAS),No informado,Wizz Air Malta,Malta,Iaşi Airport,Iasi,Romania,IAS,WMT,198,Mañana
+2025-11-15,09:05,QTR6923,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Mañana
+2025-11-15,09:05,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Mañana
+2025-11-15,09:05,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Mañana
+2025-11-15,09:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-15,09:15,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-15,09:20,RYR8109,CORK (ORK),No informado,RYANAIR DAC,Ireland,Cork Airport,Cork,Ireland,ORK,RYR,170,Mañana
+2025-11-15,09:25,RYR9380,BIRMINGHAM / INTERNACIONAL (BHX),No informado,RYANAIR DAC,Ireland,Birmingham International Airport,Birmingham,United Kingdom,BHX,RYR,170,Mañana
+2025-11-15,09:35,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-15,09:55,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-15,10:05,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-15,10:35,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-15,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-15,10:45,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-15,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-15,10:55,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-15,11:00,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-15,11:10,EZY8009,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-15,11:35,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Mañana
+2025-11-15,11:35,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Mañana
+2025-11-15,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-15,11:40,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-15,11:55,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Mañana
+2025-11-15,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-15,12:05,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Tarde
+2025-11-15,12:05,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Tarde
+2025-11-15,12:20,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-15,12:35,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-15,12:35,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Tarde
+2025-11-15,12:45,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-15,13:00,RYR8712,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-15,13:35,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-15,13:45,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-15,13:50,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-15,13:50,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-15,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-15,15:00,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-15,15:40,RYR681,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-15,15:45,IBE2441,MENORCA (MAH),No informado,Iberia Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,IBE,1,Tarde
+2025-11-15,16:00,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Tarde
+2025-11-15,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-15,16:15,ITY2403,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,ITA Airways,Italy,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ITY,0,Tarde
+2025-11-15,16:30,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-15,16:35,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-15,16:50,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Tarde
+2025-11-15,17:05,LAN1718,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,LAN Airlines,Chile,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LAN,NA,Tarde
+2025-11-15,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-15,17:20,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-15,17:35,DLH1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Tarde
+2025-11-15,17:40,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Tarde
+2025-11-15,17:40,VLG3952,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Tarde
+2025-11-15,17:40,RZO8732,LISBOA (LIS),No informado,SATA International,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RZO,0,Tarde
+2025-11-15,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-15,18:20,RYR1848,MEMMINGEN (FMM),No informado,RYANAIR DAC,Ireland,Memmingen Allgau Airport,Memmingen,Germany,FMM,RYR,170,Noche
+2025-11-15,18:30,RYR1714,NANTES-ATLANTIQUE (NTE),No informado,RYANAIR DAC,Ireland,Nantes Atlantique Airport,Nantes,France,NTE,RYR,170,Noche
+2025-11-15,18:30,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Noche
+2025-11-15,18:50,TRA6441,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Noche
+2025-11-15,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-15,19:00,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Noche
+2025-11-15,19:20,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-15,19:20,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-15,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-15,19:35,WMT3567,TIMISOARA (TSR),No informado,Wizz Air Malta,Malta,Timişoara Traian Vuia Airport,Timisoara,Romania,TSR,WMT,198,Noche
+2025-11-15,19:45,VLG3103,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Vueling Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,VLG,152,Noche
+2025-11-15,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-15,19:45,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-15,20:00,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-15,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-15,21:00,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-15,21:30,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-15,21:30,WMT5155,TIRANA (TIA),No informado,Wizz Air Malta,Malta,Tirana International Airport Mother Teresa,Tirana,Albania,TIA,WMT,198,Noche
+2025-11-15,22:20,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Noche
+2025-11-15,22:25,RYR7373,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Noche
+2025-11-15,22:40,RYR1971,TENERIFE SUR (TFS),No informado,RYANAIR DAC,Ireland,Tenerife South Airport,Tenerife,Spain,TFS,RYR,170,Noche
+2025-11-15,22:45,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-15,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-15,23:05,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-15,23:10,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-15,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-15,23:15,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-15,23:30,RZO8728,LISBOA (LIS),No informado,SATA International,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RZO,0,Noche
+2025-11-15,23:45,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-15,23:55,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Noche
+2025-11-16,00:05,RAM5441,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Royal Air Maroc,Morocco,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,RAM,33,Madrugada
+2025-11-16,00:20,VLG8350,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Madrugada
+2025-11-16,00:25,RYR9237,SOFIA (SOF),No informado,RYANAIR DAC,Ireland,Sofia,Sofia,Bulgaria,SOF,RYR,170,Madrugada
+2025-11-16,07:45,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-16,07:55,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-16,08:00,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-16,08:05,AMX6982,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Mañana
+2025-11-16,08:10,EWG2530,STUTTGART (STR),No informado,Eurowings,Germany,Stuttgart Airport,Stuttgart,Germany,STR,EWG,108,Mañana
+2025-11-16,08:25,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Mañana
+2025-11-16,08:55,VLG8151,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-16,08:55,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-16,09:05,AVA6068,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Avianca,Colombia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AVA,0,Mañana
+2025-11-16,09:05,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Mañana
+2025-11-16,09:15,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-16,09:20,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-16,09:25,RYR2080,TOULOUSE (TLS),No informado,RYANAIR DAC,Ireland,Toulouse-Blagnac Airport,Toulouse,France,TLS,RYR,170,Mañana
+2025-11-16,09:30,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-16,09:40,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Mañana
+2025-11-16,09:45,TRA6335,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-16,09:50,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-16,10:15,VOE2436,BURDEOS (BOD),No informado,VOLOTEA Airways,Spain,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,VOE,150,Mañana
+2025-11-16,10:25,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-16,10:25,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Mañana
+2025-11-16,10:30,VLG1175,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Mañana
+2025-11-16,10:35,RYR5034,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Mañana
+2025-11-16,10:35,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-16,10:45,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-16,10:50,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-16,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-16,11:00,DLH1840,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Mañana
+2025-11-16,11:10,EZY8009,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-16,11:15,TAP1092,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Mañana
+2025-11-16,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-16,11:45,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-16,11:50,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-16,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-16,12:00,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Tarde
+2025-11-16,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-16,12:20,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-16,12:20,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-16,12:40,AUA431,VIENA (VIE),No informado,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-16,12:45,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-16,12:55,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-16,13:15,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Tarde
+2025-11-16,13:15,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-16,13:15,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Tarde
+2025-11-16,13:35,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-16,14:10,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-16,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-16,14:10,VLG8153,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Tarde
+2025-11-16,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-16,14:50,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Tarde
+2025-11-16,14:55,RYR2215,SANTANDER-SEVE BALLESTEROS (SDR),No informado,RYANAIR DAC,Ireland,Santander Airport,Santander,Spain,SDR,RYR,170,Tarde
+2025-11-16,15:10,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-16,15:10,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Tarde
+2025-11-16,15:25,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-16,16:10,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Tarde
+2025-11-16,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-16,16:15,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-16,16:15,AEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Tarde
+2025-11-16,16:20,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-16,16:40,RYR1092,EDIMBURGO (EDI),No informado,RYANAIR DAC,Ireland,Edinburgh Airport,Edinburgh,United Kingdom,EDI,RYR,170,Tarde
+2025-11-16,17:05,QTR6883,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Tarde
+2025-11-16,17:05,IBE5552,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-16,17:05,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Tarde
+2025-11-16,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-16,17:20,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-16,17:25,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-16,17:30,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-16,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-16,18:05,RYR1699,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-16,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-16,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-16,18:40,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-16,18:40,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Noche
+2025-11-16,18:50,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Noche
+2025-11-16,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-16,19:05,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-16,19:05,EWG538,KOELN/BONN (CGN),No informado,Eurowings,Germany,Cologne Bonn Airport,Cologne,Germany,CGN,EWG,108,Noche
+2025-11-16,19:15,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-16,19:15,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-16,19:25,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Noche
+2025-11-16,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-16,19:35,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Noche
+2025-11-16,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-16,19:55,TVF4628,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Noche
+2025-11-16,20:00,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Noche
+2025-11-16,20:10,ASL592,BELGRADO (BEG),No informado,Spurling Aviation,United States,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-16,20:10,ASL592,BELGRADO (BEG),No informado,Air Serbia,Serbia,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-16,20:10,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-16,20:15,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Noche
+2025-11-16,20:20,RYR8712,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Noche
+2025-11-16,20:25,IBE5595,ROMA /FIUMICINO (FCO),No informado,Iberia Airlines,Spain,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,IBE,1,Noche
+2025-11-16,20:30,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-16,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-16,20:40,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-16,20:50,EZY6499,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-16,20:50,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Noche
+2025-11-16,21:10,RYR7267,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-16,21:15,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-16,21:20,TVS1054,PRAGA (PRG),No informado,Travel Service,Czech Republic,Václav Havel Airport Prague,Prague,Czech Republic,PRG,TVS,118,Noche
+2025-11-16,21:35,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-16,21:50,VLG3954,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-16,22:00,QTR8075,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Qatar Airways,Qatar,Barcelona International Airport,Barcelona,Spain,BCN,QTR,0,Noche
+2025-11-16,22:20,VLG5841,MENORCA (MAH),No informado,Vueling Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,VLG,152,Noche
+2025-11-16,22:40,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-16,22:55,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-16,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-16,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-16,23:25,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Noche
+2025-11-16,23:30,UAE4896,LISBOA (LIS),No informado,Emirates,United Arab Emirates,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,UAE,0,Noche
+2025-11-16,23:35,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-16,23:35,IBE2380,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Noche
+2025-11-17,00:05,LAN1749,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,LAN Airlines,Chile,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LAN,NA,Madrugada
+2025-11-17,00:10,RYR3791,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Madrugada
+2025-11-17,00:15,IBE2404,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Madrugada
+2025-11-17,00:20,IBE5681,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Madrugada
+2025-11-17,00:25,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Madrugada
+2025-11-17,00:35,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Madrugada
+2025-11-17,00:55,RYR1772,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Madrugada
+2025-11-17,07:45,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-17,08:00,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-17,08:05,AEA4063,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Mañana
+2025-11-17,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-17,08:20,RYR1848,MEMMINGEN (FMM),No informado,RYANAIR DAC,Ireland,Memmingen Allgau Airport,Memmingen,Germany,FMM,RYR,170,Mañana
+2025-11-17,08:40,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Mañana
+2025-11-17,08:45,IBE5546,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Mañana
+2025-11-17,09:00,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-17,09:05,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Mañana
+2025-11-17,09:05,AVA6068,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Avianca,Colombia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AVA,0,Mañana
+2025-11-17,09:05,RYR4741,POZNAN /LAWICA (POZ),No informado,RYANAIR DAC,Ireland,Poznań-Ławica Airport,Poznan,Poland,POZ,RYR,170,Mañana
+2025-11-17,09:10,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-17,09:10,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Mañana
+2025-11-17,09:15,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-17,09:35,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-17,09:55,TRA6337,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-17,09:55,RYR1714,NANTES-ATLANTIQUE (NTE),No informado,RYANAIR DAC,Ireland,Nantes Atlantique Airport,Nantes,France,NTE,RYR,170,Mañana
+2025-11-17,10:15,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-17,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-17,11:10,TAP1092,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Mañana
+2025-11-17,11:10,EZY8009,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-17,11:20,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-17,11:20,NMA1082,(CAI),No informado,Nesma Airlines,Egypt,Cairo International Airport,Cairo,Egypt,CAI,NMA,NA,Mañana
+2025-11-17,11:30,IBE5674,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-17,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-17,11:35,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-17,11:45,VOE2656,LYON (LYS),No informado,VOLOTEA Airways,Spain,Lyon Saint-Exupéry Airport,Lyon,France,LYS,VOE,150,Mañana
+2025-11-17,11:50,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Mañana
+2025-11-17,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-17,12:05,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-17,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-17,12:10,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-17,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-17,12:15,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-17,12:20,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Tarde
+2025-11-17,12:20,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Tarde
+2025-11-17,12:25,IBE5683,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Tarde
+2025-11-17,12:30,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-17,12:45,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-17,12:45,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Tarde
+2025-11-17,13:00,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-17,13:35,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-17,13:45,VLG5713,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-17,14:00,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-17,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-17,14:20,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-17,14:30,TVF4624,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Tarde
+2025-11-17,14:35,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Tarde
+2025-11-17,14:40,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-17,14:55,RYR9001,PARIS /BEAUVAIS-TILLE (BVA),No informado,RYANAIR DAC,Ireland,Paris Beauvais Tillé Airport,Beauvais,France,BVA,RYR,170,Tarde
+2025-11-17,15:05,MSC3724,(CAI),No informado,Air Cairo,Egypt,Cairo International Airport,Cairo,Egypt,CAI,MSC,130,Tarde
+2025-11-17,15:15,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-17,15:25,EZS1031,BASEL /MULHOUSE (BSL),No informado,EasyJet Switzerland,Switzerland,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,EZS,155,Tarde
+2025-11-17,15:35,RYR9380,BIRMINGHAM / INTERNACIONAL (BHX),No informado,RYANAIR DAC,Ireland,Birmingham International Airport,Birmingham,United Kingdom,BHX,RYR,170,Tarde
+2025-11-17,15:35,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Tarde
+2025-11-17,15:40,RYR5372,FEZ /SAIS (FEZ),No informado,RYANAIR DAC,Ireland,Saïss Airport,Fes,Morocco,FEZ,RYR,170,Tarde
+2025-11-17,15:45,VLG5969,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-17,15:50,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-17,16:00,VLG5841,MENORCA (MAH),No informado,Vueling Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,VLG,152,Tarde
+2025-11-17,16:05,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-17,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-17,16:15,ASL7495,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Spurling Aviation,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ASL,79,Tarde
+2025-11-17,16:15,ASL7495,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Serbia,Serbia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ASL,79,Tarde
+2025-11-17,16:50,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-17,17:05,LAN1718,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,LAN Airlines,Chile,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LAN,NA,Tarde
+2025-11-17,17:10,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-17,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-17,17:20,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Tarde
+2025-11-17,17:25,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Tarde
+2025-11-17,17:25,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-17,17:30,TAP1094,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Tarde
+2025-11-17,17:30,VLG1175,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Tarde
+2025-11-17,17:30,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-17,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-17,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-17,18:00,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-17,18:30,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-17,18:35,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Noche
+2025-11-17,18:40,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Noche
+2025-11-17,18:50,EJU7899,AMSTERDAM /SCHIPHOL (AMS),No informado,EasyJet,United Kingdom,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EJU,159,Noche
+2025-11-17,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-17,18:55,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Noche
+2025-11-17,19:10,RYR7340,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Noche
+2025-11-17,19:10,LGL763,LUXEMBURGO (LUX),No informado,Luxair,Luxembourg,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,LGL,61,Noche
+2025-11-17,19:20,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Noche
+2025-11-17,19:30,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Noche
+2025-11-17,19:30,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-17,19:45,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Noche
+2025-11-17,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-17,20:00,IBE2376,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Iberia Airlines,Spain,Barcelona International Airport,Barcelona,Spain,BCN,IBE,1,Noche
+2025-11-17,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-17,20:05,IBE2393,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-17,20:25,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-17,20:30,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Noche
+2025-11-17,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-17,20:35,RYR1971,TENERIFE SUR (TFS),No informado,RYANAIR DAC,Ireland,Tenerife South Airport,Tenerife,Spain,TFS,RYR,170,Noche
+2025-11-17,20:35,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-17,20:40,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-17,20:45,IBE5552,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Noche
+2025-11-17,21:05,VLG5800,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-17,21:05,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-17,21:10,VOE3816,A CORUÑA (LCG),No informado,VOLOTEA Airways,Spain,A Coruña Airport,La Coruna,Spain,LCG,VOE,150,Noche
+2025-11-17,21:20,EWG3014,PRAGA (PRG),No informado,Eurowings,Germany,Václav Havel Airport Prague,Prague,Czech Republic,PRG,EWG,108,Noche
+2025-11-17,21:40,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Noche
+2025-11-17,21:45,RYR6415,PESCARA (PSR),No informado,RYANAIR DAC,Ireland,Pescara International Airport,Pescara,Italy,PSR,RYR,170,Noche
+2025-11-17,21:55,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-17,22:00,RYR2646,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Noche
+2025-11-17,22:10,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-17,22:25,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-17,22:35,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-17,22:40,BAW8067,LONDRES /GATWICK (LGW),No informado,British Airways,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,BAW,96,Noche
+2025-11-17,22:55,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-17,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-17,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-17,23:15,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-17,23:20,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-17,23:30,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-17,23:35,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-17,23:35,IBE2380,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Noche
+2025-11-17,23:40,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-18,00:05,QTR6884,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Madrugada
+2025-11-18,00:20,IBE5681,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Madrugada
+2025-11-18,00:25,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Madrugada
+2025-11-18,00:30,RYR2271,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Madrugada
+2025-11-18,08:05,ETD7519,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Etihad Airways,United Arab Emirates,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,ETD,0,Mañana
+2025-11-18,08:15,VLG5782,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Mañana
+2025-11-18,08:55,VLG8151,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-18,09:05,AAL8715,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,American Airlines,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AAL,0,Mañana
+2025-11-18,09:05,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-18,09:15,KLM2659,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Mañana
+2025-11-18,09:20,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-18,10:05,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Mañana
+2025-11-18,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-18,10:50,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Mañana
+2025-11-18,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-18,10:55,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Mañana
+2025-11-18,11:00,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-18,11:05,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-18,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-18,11:45,IBE2313,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Mañana
+2025-11-18,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-18,12:05,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-18,12:05,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-18,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-18,12:40,AUA431,VIENA (VIE),No informado,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-18,12:45,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-18,13:05,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-18,13:30,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Tarde
+2025-11-18,13:35,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-18,14:00,VLG1175,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Tarde
+2025-11-18,14:35,VLG5980,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Tarde
+2025-11-18,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-18,15:50,VLG3952,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Tarde
+2025-11-18,15:55,CES4976,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,China Eastern Airlines,China,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,CES,0,Tarde
+2025-11-18,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-18,16:10,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-18,16:15,QTR6541,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Tarde
+2025-11-18,16:15,IBE5847,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Tarde
+2025-11-18,16:35,RYR705,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Tarde
+2025-11-18,16:45,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-18,17:05,AVA6104,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Avianca,Colombia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AVA,0,Tarde
+2025-11-18,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-18,17:30,ETD2758,LISBOA (LIS),No informado,Etihad Airways,United Arab Emirates,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,ETD,0,Tarde
+2025-11-18,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-18,17:45,TRA6443,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Tarde
+2025-11-18,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-18,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-18,19:10,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-18,19:25,RYR8109,CORK (ORK),No informado,RYANAIR DAC,Ireland,Cork Airport,Cork,Ireland,ORK,RYR,170,Noche
+2025-11-18,19:35,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-18,19:35,WMT3567,TIMISOARA (TSR),No informado,Wizz Air Malta,Malta,Timişoara Traian Vuia Airport,Timisoara,Romania,TSR,WMT,198,Noche
+2025-11-18,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-18,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-18,20:00,QTR8075,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Qatar Airways,Qatar,Barcelona International Airport,Barcelona,Spain,BCN,QTR,0,Noche
+2025-11-18,20:05,VLG5793,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Noche
+2025-11-18,20:35,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-18,20:40,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-18,20:55,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-18,21:00,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-18,21:30,WMT5155,TIRANA (TIA),No informado,Wizz Air Malta,Malta,Tirana International Airport Mother Teresa,Tirana,Albania,TIA,WMT,198,Noche
+2025-11-18,21:45,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-18,22:55,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-18,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-18,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-18,23:25,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Noche
+2025-11-18,23:35,VLG5780,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Noche
+2025-11-19,00:05,RAM5441,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Royal Air Maroc,Morocco,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,RAM,33,Madrugada
+2025-11-19,00:20,QTR3675,AMSTERDAM /SCHIPHOL (AMS),No informado,Qatar Airways,Qatar,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,QTR,0,Madrugada
+2025-11-19,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-19,08:05,AEA4063,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Mañana
+2025-11-19,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-19,08:35,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-19,08:45,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Mañana
+2025-11-19,08:45,VLG8151,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Mañana
+2025-11-19,09:05,AVA6068,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Avianca,Colombia,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AVA,0,Mañana
+2025-11-19,09:05,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-19,09:10,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-19,09:15,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-19,10:00,RYR1092,EDIMBURGO (EDI),No informado,RYANAIR DAC,Ireland,Edinburgh Airport,Edinburgh,United Kingdom,EDI,RYR,170,Mañana
+2025-11-19,10:05,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Mañana
+2025-11-19,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-19,11:00,VLG5833,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Mañana
+2025-11-19,11:15,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Mañana
+2025-11-19,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-19,11:45,VLG5713,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Mañana
+2025-11-19,11:45,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-19,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-19,12:10,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-19,12:10,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Tarde
+2025-11-19,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-19,12:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-19,12:25,IBE5683,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Tarde
+2025-11-19,12:45,RYR705,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Tarde
+2025-11-19,12:55,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-19,13:05,RYR9237,SOFIA (SOF),No informado,RYANAIR DAC,Ireland,Sofia,Sofia,Bulgaria,SOF,RYR,170,Tarde
+2025-11-19,13:05,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-19,14:20,IBE5552,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-19,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-19,15:00,VLG5793,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Tarde
+2025-11-19,15:15,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-19,16:00,VLG5841,MENORCA (MAH),No informado,Vueling Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,VLG,152,Tarde
+2025-11-19,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-19,16:15,IBE2384,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Tarde
+2025-11-19,16:15,CES4976,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,China Eastern Airlines,China,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,CES,0,Tarde
+2025-11-19,17:05,IBE1081,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Tarde
+2025-11-19,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-19,17:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-19,17:10,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-19,17:20,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-19,17:30,VLG8153,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Tarde
+2025-11-19,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-19,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-19,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-19,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-19,18:30,VLG5937,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-19,18:40,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-19,18:45,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-19,18:50,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Noche
+2025-11-19,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-19,19:05,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Noche
+2025-11-19,19:25,VLG3103,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Vueling Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,VLG,152,Noche
+2025-11-19,19:45,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-19,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-19,20:00,FIN5583,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Finnair,Finland,Barcelona International Airport,Barcelona,Spain,BCN,FIN,0,Noche
+2025-11-19,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-19,20:05,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-19,20:15,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-19,20:30,VLG3968,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Noche
+2025-11-19,20:30,VLG3952,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-19,20:35,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-19,20:45,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-19,20:55,VLG5800,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-19,21:10,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-19,22:45,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-19,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-19,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-19,23:20,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-19,23:25,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Noche
+2025-11-19,23:30,UAE4896,LISBOA (LIS),No informado,Emirates,United Arab Emirates,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,UAE,0,Noche
+2025-11-19,23:35,VLG5780,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Noche
+2025-11-20,00:05,VLG5312,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Vueling Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,VLG,152,Madrugada
+2025-11-20,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-20,07:50,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-20,08:05,AMX6982,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Mañana
+2025-11-20,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-20,08:25,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-20,08:55,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-20,09:00,ASL590,BELGRADO (BEG),No informado,Spurling Aviation,United States,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Mañana
+2025-11-20,09:00,ASL590,BELGRADO (BEG),No informado,Air Serbia,Serbia,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Mañana
+2025-11-20,09:05,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Mañana
+2025-11-20,09:05,IBE1079,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Mañana
+2025-11-20,09:05,TRA6331,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-20,09:05,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-20,09:10,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Mañana
+2025-11-20,09:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-20,09:20,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-20,09:25,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Mañana
+2025-11-20,09:45,RYR4741,POZNAN /LAWICA (POZ),No informado,RYANAIR DAC,Ireland,Poznań-Ławica Airport,Poznan,Poland,POZ,RYR,170,Mañana
+2025-11-20,09:55,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-20,10:05,VLG5791,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Mañana
+2025-11-20,10:20,RYR2229,CRACOVIA (KRK),No informado,RYANAIR DAC,Ireland,Kraków John Paul II International Airport,Krakow,Poland,KRK,RYR,170,Mañana
+2025-11-20,10:25,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Mañana
+2025-11-20,10:35,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-20,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-20,10:55,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Mañana
+2025-11-20,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-20,10:55,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-20,11:00,IBE2433,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Mañana
+2025-11-20,11:00,DLH1840,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Mañana
+2025-11-20,11:15,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Mañana
+2025-11-20,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-20,11:35,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Mañana
+2025-11-20,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-20,12:10,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-20,12:15,RYR1003,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-20,12:20,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-20,12:25,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Tarde
+2025-11-20,12:25,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-20,12:25,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-20,12:40,AUA431,VIENA (VIE),No informado,Austrian Airlines,Austria,Vienna International Airport,Vienna,Austria,VIE,AUA,149,Tarde
+2025-11-20,13:30,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Tarde
+2025-11-20,14:00,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-20,14:10,SWR2142,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Tarde
+2025-11-20,14:20,VLG5819,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Tarde
+2025-11-20,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-20,15:25,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-20,15:30,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Tarde
+2025-11-20,15:40,VLG8921,BRUSELAS (BRU),No informado,Vueling Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,VLG,152,Tarde
+2025-11-20,15:50,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-20,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-20,16:15,AEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Tarde
+2025-11-20,16:20,VLG5784,MALAGA-COSTA DEL SOL (AGP),No informado,Vueling Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,VLG,152,Tarde
+2025-11-20,16:40,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Tarde
+2025-11-20,16:55,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Tarde
+2025-11-20,17:00,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-20,17:05,IBE1081,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Tarde
+2025-11-20,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-20,17:15,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-20,17:25,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-20,17:30,RZO8732,LISBOA (LIS),No informado,SATA International,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RZO,0,Tarde
+2025-11-20,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-20,18:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Noche
+2025-11-20,18:25,RYR4728,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-20,18:25,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Noche
+2025-11-20,18:30,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-20,18:45,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-20,18:50,TRA6441,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Noche
+2025-11-20,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-20,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-20,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-20,19:45,IBE5676,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Noche
+2025-11-20,19:45,VLG3103,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Vueling Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,VLG,152,Noche
+2025-11-20,19:50,EWG2530,STUTTGART (STR),No informado,Eurowings,Germany,Stuttgart Airport,Stuttgart,Germany,STR,EWG,108,Noche
+2025-11-20,20:00,QTR8075,BARCELONA-EL PRAT JOSEP TARRADELLAS (BCN),No informado,Qatar Airways,Qatar,Barcelona International Airport,Barcelona,Spain,BCN,QTR,0,Noche
+2025-11-20,20:00,ASL9030,BELGRADO (BEG),No informado,Spurling Aviation,United States,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-20,20:00,ASL9030,BELGRADO (BEG),No informado,Air Serbia,Serbia,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,ASL,79,Noche
+2025-11-20,20:05,VLG5793,SEVILLA (SVQ),No informado,Vueling Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,VLG,152,Noche
+2025-11-20,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-20,20:40,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-20,20:45,VLG3968,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Noche
+2025-11-20,20:45,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-20,20:45,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-20,20:55,VLG5800,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-20,21:10,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Noche
+2025-11-20,21:20,EWG3014,PRAGA (PRG),No informado,Eurowings,Germany,Václav Havel Airport Prague,Prague,Czech Republic,PRG,EWG,108,Noche
+2025-11-20,21:20,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-20,21:20,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Noche
+2025-11-20,21:50,VLG1177,GRAN CANARIA (LPA),No informado,Vueling Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,VLG,152,Noche
+2025-11-20,21:50,IBE5550,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-20,22:15,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Noche
+2025-11-20,22:20,BAW8067,LONDRES /GATWICK (LGW),No informado,British Airways,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,BAW,96,Noche
+2025-11-20,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-20,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-20,23:10,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-20,23:30,RYR1718,EINDHOVEN (EIN),No informado,RYANAIR DAC,Ireland,Eindhoven Airport,Eindhoven,Netherlands,EIN,RYR,170,Noche
+2025-11-20,23:35,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-20,23:35,QTR8074,MALAGA-COSTA DEL SOL (AGP),No informado,Qatar Airways,Qatar,Málaga Airport,Malaga,Spain,AGP,QTR,0,Noche
+2025-11-20,23:40,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Noche
+2025-11-20,23:45,IBE2406,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-20,23:50,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-21,00:05,JAL9407,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Japan Airlines,Japan,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,JAL,0,Madrugada
+2025-11-21,00:05,VLG8350,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Madrugada
+2025-11-21,00:50,IBE1085,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Madrugada
+2025-11-21,07:50,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-21,08:00,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-21,08:05,AMX6982,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Mañana
+2025-11-21,08:10,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Mañana
+2025-11-21,08:15,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-21,08:15,VOE2656,LYON (LYS),No informado,VOLOTEA Airways,Spain,Lyon Saint-Exupéry Airport,Lyon,France,LYS,VOE,150,Mañana
+2025-11-21,08:25,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-21,08:40,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Mañana
+2025-11-21,08:50,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Mañana
+2025-11-21,08:50,LGL763,LUXEMBURGO (LUX),No informado,Luxair,Luxembourg,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,LGL,61,Mañana
+2025-11-21,08:55,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-21,09:00,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Mañana
+2025-11-21,09:05,QTR6923,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Qatar Airways,Qatar,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,QTR,0,Mañana
+2025-11-21,09:10,SWR2130,GINEBRA (GVA),No informado,Swiss International Air Lines,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,SWR,134,Mañana
+2025-11-21,09:10,WZZ2385,BUDAPEST (BUD),No informado,Wizz Air,Hungary,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,WZZ,196,Mañana
+2025-11-21,09:15,VOE2436,BURDEOS (BOD),No informado,VOLOTEA Airways,Spain,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,VOE,150,Mañana
+2025-11-21,09:20,RYR641,MANCHESTER (MAN),No informado,RYANAIR DAC,Ireland,Manchester Airport,Manchester,United Kingdom,MAN,RYR,170,Mañana
+2025-11-21,09:35,KLM2622,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Mañana
+2025-11-21,09:40,RYR5372,FEZ /SAIS (FEZ),No informado,RYANAIR DAC,Ireland,Saïss Airport,Fes,Morocco,FEZ,RYR,170,Mañana
+2025-11-21,09:45,RYR2271,SANTIAGO-ROSALÍA DE CASTRO (SCQ),No informado,RYANAIR DAC,Ireland,Santiago de Compostela Airport,Santiago,Spain,SCQ,RYR,170,Mañana
+2025-11-21,09:50,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-21,09:50,EJU7899,AMSTERDAM /SCHIPHOL (AMS),No informado,EasyJet,United Kingdom,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EJU,159,Mañana
+2025-11-21,10:25,EZY8011,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-21,10:25,RYR616,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Mañana
+2025-11-21,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-21,11:00,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Mañana
+2025-11-21,11:00,VLG5833,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Mañana
+2025-11-21,11:05,TVF4620,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Mañana
+2025-11-21,11:10,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-21,11:15,TAP1092,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Mañana
+2025-11-21,11:20,IBE5732,BRUSELAS (BRU),No informado,Iberia Airlines,Spain,Brussels Airport,Brussels,Belgium,BRU,IBE,1,Mañana
+2025-11-21,11:30,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Mañana
+2025-11-21,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-21,11:50,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Mañana
+2025-11-21,11:50,IBB5804,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Binter Canarias,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBB,97,Mañana
+2025-11-21,11:55,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-21,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-21,12:05,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Tarde
+2025-11-21,12:10,RYR9001,PARIS /BEAUVAIS-TILLE (BVA),No informado,RYANAIR DAC,Ireland,Paris Beauvais Tillé Airport,Beauvais,France,BVA,RYR,170,Tarde
+2025-11-21,12:20,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-21,12:45,VLG8352,AMSTERDAM /SCHIPHOL (AMS),No informado,Vueling Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,VLG,152,Tarde
+2025-11-21,12:45,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Tarde
+2025-11-21,12:55,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Tarde
+2025-11-21,13:05,VOE3816,A CORUÑA (LCG),No informado,VOLOTEA Airways,Spain,A Coruña Airport,La Coruna,Spain,LCG,VOE,150,Tarde
+2025-11-21,13:20,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Tarde
+2025-11-21,13:20,IBE5554,BILBAO (BIO),No informado,Iberia Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,IBE,1,Tarde
+2025-11-21,13:25,RYR2215,SANTANDER-SEVE BALLESTEROS (SDR),No informado,RYANAIR DAC,Ireland,Santander Airport,Santander,Spain,SDR,RYR,170,Tarde
+2025-11-21,13:30,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Tarde
+2025-11-21,13:30,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-21,14:00,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-21,14:05,EZS1371,GINEBRA (GVA),No informado,EasyJet Switzerland,Switzerland,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,EZS,155,Tarde
+2025-11-21,14:10,WMT6317,MILAN /MALPENSA (MXP),No informado,Wizz Air Malta,Malta,Malpensa International Airport,Milano,Italy,MXP,WMT,198,Tarde
+2025-11-21,14:15,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Tarde
+2025-11-21,14:30,IBE2441,MENORCA (MAH),No informado,Iberia Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,IBE,1,Tarde
+2025-11-21,14:30,TVF4628,PARIS /ORLY (ORY),No informado,Transavia France,France,Paris-Orly Airport,Paris,France,ORY,TVF,159,Tarde
+2025-11-21,14:45,RYR645,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-21,14:55,VLG3966,BILBAO (BIO),No informado,Vueling Airlines,Spain,Bilbao Airport,Bilbao,Spain,BIO,VLG,152,Tarde
+2025-11-21,14:55,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Tarde
+2025-11-21,16:05,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-21,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-21,16:15,AMX6858,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,AeroMéxico,Mexico,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AMX,0,Tarde
+2025-11-21,16:15,RYR2985,BRUSELAS (BRU),No informado,RYANAIR DAC,Ireland,Brussels Airport,Brussels,Belgium,BRU,RYR,170,Tarde
+2025-11-21,16:20,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Tarde
+2025-11-21,16:45,EZS1031,BASEL /MULHOUSE (BSL),No informado,EasyJet Switzerland,Switzerland,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,EZS,155,Tarde
+2025-11-21,16:50,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Tarde
+2025-11-21,16:55,RYR1770,MARSELLA (MRS),No informado,RYANAIR DAC,Ireland,Marseille Provence Airport,Marseille,France,MRS,RYR,170,Tarde
+2025-11-21,16:55,IBE5552,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-21,17:05,RAM5440,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Royal Air Maroc,Morocco,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,RAM,33,Tarde
+2025-11-21,17:10,VOE3536,BILBAO (BIO),No informado,VOLOTEA Airways,Spain,Bilbao Airport,Bilbao,Spain,BIO,VOE,150,Tarde
+2025-11-21,17:10,DLH1162,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-21,17:10,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-21,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-21,17:10,RYR9331,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-21,17:30,RYR7340,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Tarde
+2025-11-21,17:35,LHX1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,LHX,NA,Tarde
+2025-11-21,17:40,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-21,17:45,RYR2080,TOULOUSE (TLS),No informado,RYANAIR DAC,Ireland,Toulouse-Blagnac Airport,Toulouse,France,TLS,RYR,170,Tarde
+2025-11-21,17:50,RYR999,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Tarde
+2025-11-21,17:55,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-21,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-21,18:00,IBE5548,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-21,18:20,RYR2259,TURIN (TRN),No informado,RYANAIR DAC,Ireland,Turin Airport,Torino,Italy,TRN,RYR,170,Noche
+2025-11-21,18:25,IBB5802,GRAN CANARIA (LPA),No informado,Binter Canarias,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBB,97,Noche
+2025-11-21,18:55,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-21,19:00,RYR1699,IBIZA (IBZ),No informado,RYANAIR DAC,Ireland,Ibiza Airport,Ibiza,Spain,IBZ,RYR,170,Noche
+2025-11-21,19:00,EJU5103,BERLIN BRANDENBURG (BER),No informado,EasyJet,United Kingdom,NA,NA,NA,BER,EJU,159,Noche
+2025-11-21,19:05,EWG538,KOELN/BONN (CGN),No informado,Eurowings,Germany,Cologne Bonn Airport,Cologne,Germany,CGN,EWG,108,Noche
+2025-11-21,19:10,TRA5107,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Noche
+2025-11-21,19:15,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-21,19:20,RYR6423,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Noche
+2025-11-21,19:35,IBE5247,GRAN CANARIA (LPA),No informado,Iberia Airlines,Spain,Gran Canaria Airport,Gran Canaria,Spain,LPA,IBE,1,Noche
+2025-11-21,19:45,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-21,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-21,20:00,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-21,20:00,WMT3411,CLUJ NAPOCA/SOMESENI (CLJ),No informado,Wizz Air Malta,Malta,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,WMT,198,Noche
+2025-11-21,20:15,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Noche
+2025-11-21,20:25,IBE5595,ROMA /FIUMICINO (FCO),No informado,Iberia Airlines,Spain,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,IBE,1,Noche
+2025-11-21,20:30,KLM2523,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-21,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-21,20:40,EZY8013,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Noche
+2025-11-21,20:45,IBE2400,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-21,21:20,TVS1054,PRAGA (PRG),No informado,Travel Service,Czech Republic,Václav Havel Airport Prague,Prague,Czech Republic,PRG,TVS,118,Noche
+2025-11-21,21:45,RYR638,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Noche
+2025-11-21,21:50,VLG3954,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Noche
+2025-11-21,21:55,RYR2646,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Noche
+2025-11-21,22:00,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-21,22:15,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-21,22:55,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Noche
+2025-11-21,23:00,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-21,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-21,23:10,RYR7267,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Noche
+2025-11-21,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-21,23:10,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-21,23:20,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Noche
+2025-11-21,23:30,RZO8728,LISBOA (LIS),No informado,SATA International,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RZO,0,Noche
+2025-11-21,23:30,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Noche
+2025-11-21,23:35,RYR6325,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-21,23:35,IBE2402,PALMA DE MALLORCA (PMI),No informado,Iberia Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,IBE,1,Noche
+2025-11-21,23:45,IBE2431,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Noche
+2025-11-21,23:55,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Noche
+2025-11-22,00:05,JAL9407,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Japan Airlines,Japan,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,JAL,0,Madrugada
+2025-11-22,00:20,IBE5681,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Madrugada
+2025-11-22,00:35,RYR4486,PALERMO /PUNTA RAISI (PMO),No informado,RYANAIR DAC,Ireland,Falcone–Borsellino Airport,Palermo,Italy,PMO,RYR,170,Madrugada
+2025-11-22,07:55,RYR620,BOLONIA (BLQ),No informado,RYANAIR DAC,Ireland,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,RYR,170,Mañana
+2025-11-22,07:55,RYR952,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Mañana
+2025-11-22,08:00,RYR6415,PESCARA (PSR),No informado,RYANAIR DAC,Ireland,Pescara International Airport,Pescara,Italy,PSR,RYR,170,Mañana
+2025-11-22,08:05,AEA4063,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Mañana
+2025-11-22,08:25,TRA6333,AMSTERDAM /SCHIPHOL (AMS),No informado,Transavia Holland,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,TRA,162,Mañana
+2025-11-22,08:30,RYR638,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Mañana
+2025-11-22,08:45,VLG3950,PALMA DE MALLORCA (PMI),No informado,Vueling Airlines,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,VLG,152,Mañana
+2025-11-22,09:00,WMT3723,IASI (IAS),No informado,Wizz Air Malta,Malta,Iaşi Airport,Iasi,Romania,IAS,WMT,198,Mañana
+2025-11-22,09:05,IBE1079,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Mañana
+2025-11-22,09:05,RYR5540,TANGER (TNG),No informado,RYANAIR DAC,Ireland,Ibn Batouta Airport,Tanger,Morocco,TNG,RYR,170,Mañana
+2025-11-22,09:05,RYR138,BERLIN BRANDENBURG (BER),No informado,RYANAIR DAC,Ireland,NA,NA,NA,BER,RYR,170,Mañana
+2025-11-22,09:10,SWR2140,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Mañana
+2025-11-22,09:15,IBE5783,PARIS /ORLY (ORY),No informado,Iberia Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,IBE,1,Mañana
+2025-11-22,09:20,RYR8109,CORK (ORK),No informado,RYANAIR DAC,Ireland,Cork Airport,Cork,Ireland,ORK,RYR,170,Mañana
+2025-11-22,09:25,RYR9380,BIRMINGHAM / INTERNACIONAL (BHX),No informado,RYANAIR DAC,Ireland,Birmingham International Airport,Birmingham,United Kingdom,BHX,RYR,170,Mañana
+2025-11-22,09:35,WZZ1337,VARSOVIA (WAW),No informado,Wizz Air,Hungary,Warsaw Chopin Airport,Warsaw,Poland,WAW,WZZ,196,Mañana
+2025-11-22,09:55,TRA5105,EINDHOVEN (EIN),No informado,Transavia Holland,Netherlands,Eindhoven Airport,Eindhoven,Netherlands,EIN,TRA,162,Mañana
+2025-11-22,10:05,IBE2382,MALAGA-COSTA DEL SOL (AGP),No informado,Iberia Airlines,Spain,Málaga Airport,Malaga,Spain,AGP,IBE,1,Mañana
+2025-11-22,10:35,RYR802,VIENA (VIE),No informado,RYANAIR DAC,Ireland,Vienna International Airport,Vienna,Austria,VIE,RYR,170,Mañana
+2025-11-22,10:40,WMT3185,BUCAREST (OTP),No informado,Wizz Air Malta,Malta,Henri Coandă International Airport,Bucharest,Romania,OTP,WMT,198,Mañana
+2025-11-22,10:45,EWG9538,DUSSELDORF (DUS),No informado,Eurowings,Germany,Düsseldorf Airport,Duesseldorf,Germany,DUS,EWG,108,Mañana
+2025-11-22,10:55,THY1301,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Mañana
+2025-11-22,10:55,RYR2206,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Mañana
+2025-11-22,11:00,RYR4631,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Mañana
+2025-11-22,11:10,EZY8009,LONDRES /GATWICK (LGW),No informado,easyJet,United Kingdom,London Gatwick Airport,London,United Kingdom,LGW,EZY,NA,Mañana
+2025-11-22,11:35,RYR1687,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Mañana
+2025-11-22,11:35,RAM968,CASABLANCA /MOHAMED V (CMN),No informado,Royal Air Maroc,Morocco,Mohammed V International Airport,Casablanca,Morocco,CMN,RAM,33,Mañana
+2025-11-22,11:35,AEA4007,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Mañana
+2025-11-22,11:40,RYR993,ROMA /FIUMICINO (FCO),No informado,RYANAIR DAC,Ireland,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,RYR,170,Mañana
+2025-11-22,11:55,RYR1740,DUBLIN (DUB),No informado,RYANAIR DAC,Ireland,Dublin Airport,Dublin,Ireland,DUB,RYR,170,Mañana
+2025-11-22,12:00,AFR1416,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-22,12:05,VLG5831,IBIZA (IBZ),No informado,Vueling Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,VLG,152,Tarde
+2025-11-22,12:05,RYR1131,NUREMBERG (NUE),No informado,RYANAIR DAC,Ireland,Nuremberg Airport,Nuernberg,Germany,NUE,RYR,170,Tarde
+2025-11-22,12:20,DLH1160,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Tarde
+2025-11-22,12:25,VLG8473,LONDRES /GATWICK (LGW),No informado,Vueling Airlines,Spain,London Gatwick Airport,London,United Kingdom,LGW,VLG,152,Tarde
+2025-11-22,12:35,RYR2301,BUDAPEST (BUD),No informado,RYANAIR DAC,Ireland,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,RYR,170,Tarde
+2025-11-22,12:35,RYR7201,GRAN CANARIA (LPA),No informado,RYANAIR DAC,Ireland,Gran Canaria Airport,Gran Canaria,Spain,LPA,RYR,170,Tarde
+2025-11-22,12:45,IBE5683,AMSTERDAM /SCHIPHOL (AMS),No informado,Iberia Airlines,Spain,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,IBE,1,Tarde
+2025-11-22,13:00,RYR8712,PISA / GALILEO GALILEI (PSA),No informado,RYANAIR DAC,Ireland,Pisa International Airport,Pisa,Italy,PSA,RYR,170,Tarde
+2025-11-22,13:35,RYR7215,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Tarde
+2025-11-22,13:45,VOE3582,ASTURIAS (OVD),No informado,VOLOTEA Airways,Spain,Asturias Airport,Aviles,Spain,OVD,VOE,150,Tarde
+2025-11-22,13:50,IBE2391,SEVILLA (SVQ),No informado,Iberia Airlines,Spain,Sevilla Airport,Sevilla,Spain,SVQ,IBE,1,Tarde
+2025-11-22,13:50,RYR643,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Tarde
+2025-11-22,14:40,WMT6027,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Tarde
+2025-11-22,15:00,RYR1710,OPORTO (OPO),No informado,RYANAIR DAC,Ireland,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,RYR,170,Tarde
+2025-11-22,15:40,RYR681,MALAGA-COSTA DEL SOL (AGP),No informado,RYANAIR DAC,Ireland,Málaga Airport,Malaga,Spain,AGP,RYR,170,Tarde
+2025-11-22,15:45,VLG5841,MENORCA (MAH),No informado,Vueling Airlines,Spain,Menorca Airport,Menorca,Spain,MAH,VLG,152,Tarde
+2025-11-22,16:00,RYR1444,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Tarde
+2025-11-22,16:10,KLM1531,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Tarde
+2025-11-22,16:15,AEA4065,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Air Europa,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,AEA,102,Tarde
+2025-11-22,16:30,RYR497,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Tarde
+2025-11-22,16:35,RYR2217,MARRAKECH (RAK),No informado,RYANAIR DAC,Ireland,Menara Airport,Marrakech,Morocco,RAK,RYR,170,Tarde
+2025-11-22,16:50,IBE2435,IBIZA (IBZ),No informado,Iberia Airlines,Spain,Ibiza Airport,Ibiza,Spain,IBZ,IBE,1,Tarde
+2025-11-22,17:05,IBE1081,MADRID-BARAJAS ADOLFO SUÁREZ (MAD),No informado,Iberia Airlines,Spain,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,IBE,1,Tarde
+2025-11-22,17:10,THY1313,ESTAMBUL (IST),No informado,Turkish Airlines,Turkey,Istanbul Airport,Istanbul,Turkey,IST,THY,139,Tarde
+2025-11-22,17:20,BAW410,LONDRES / HEATHROW (LHR),No informado,British Airways,United Kingdom,London Heathrow Airport,London,United Kingdom,LHR,BAW,96,Tarde
+2025-11-22,17:35,DLH1842,MUNICH (MUC),No informado,Lufthansa,Germany,Munich Airport,Munich,Germany,MUC,DLH,159,Tarde
+2025-11-22,17:40,LOT4712,LISBOA (LIS),No informado,LOT Polish Airlines,Poland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,LOT,0,Tarde
+2025-11-22,17:40,RYR6248,TREVISO/S.ANGELO (MIL) (TSF),No informado,RYANAIR DAC,Ireland,NA,NA,NA,MIL,RYR,170,Tarde
+2025-11-22,17:55,AFR1420,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Tarde
+2025-11-22,18:20,RYR1848,MEMMINGEN (FMM),No informado,RYANAIR DAC,Ireland,Memmingen Allgau Airport,Memmingen,Germany,FMM,RYR,170,Noche
+2025-11-22,18:30,RYR1714,NANTES-ATLANTIQUE (NTE),No informado,RYANAIR DAC,Ireland,Nantes Atlantique Airport,Nantes,France,NTE,RYR,170,Noche
+2025-11-22,18:30,RYR1780,BADEN BADEN-KARLSRUHE (FKB) (FKB),No informado,RYANAIR DAC,Ireland,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,RYR,170,Noche
+2025-11-22,18:50,TRA6441,ROTTERDAM (RTM),No informado,Transavia Holland,Netherlands,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,TRA,162,Noche
+2025-11-22,19:00,SWR2146,ZURICH (ZRH),No informado,Swiss International Air Lines,Switzerland,Zürich Airport,Zurich,Switzerland,ZRH,SWR,134,Noche
+2025-11-22,19:00,RYR618,TRIESTE (TRS),No informado,RYANAIR DAC,Ireland,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,RYR,170,Noche
+2025-11-22,19:20,BEL3751,BRUSELAS (BRU),No informado,Brussels Airlines,Belgium,Brussels Airport,Brussels,Belgium,BRU,BEL,146,Noche
+2025-11-22,19:20,RYR1611,BARI /PALESE (BRI),No informado,RYANAIR DAC,Ireland,Bari Karol Wojtyła Airport,Bari,Italy,BRI,RYR,170,Noche
+2025-11-22,19:35,WZZ2079,CRACOVIA (KRK),No informado,Wizz Air,Hungary,Kraków John Paul II International Airport,Krakow,Poland,KRK,WZZ,196,Noche
+2025-11-22,19:35,WMT3567,TIMISOARA (TSR),No informado,Wizz Air Malta,Malta,Timişoara Traian Vuia Airport,Timisoara,Romania,TSR,WMT,198,Noche
+2025-11-22,19:45,IBE5405,TENERIFE NORTE-C. LA LAGUNA (TFN),No informado,Iberia Airlines,Spain,Tenerife Norte Airport,Tenerife,Spain,TFN,IBE,1,Noche
+2025-11-22,19:45,VLG8155,PARIS /ORLY (ORY),No informado,Vueling Airlines,Spain,Paris-Orly Airport,Paris,France,ORY,VLG,152,Noche
+2025-11-22,19:45,AEA4011,PALMA DE MALLORCA (PMI),No informado,Air Europa,Spain,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,AEA,102,Noche
+2025-11-22,20:00,RYR6836,NAPOLES (NAP),No informado,RYANAIR DAC,Ireland,Naples International Airport,Naples,Italy,NAP,RYR,170,Noche
+2025-11-22,20:35,WMT6045,ROMA /FIUMICINO (FCO),No informado,Wizz Air Malta,Malta,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,WMT,198,Noche
+2025-11-22,21:00,RYR4663,MILAN/BERGAMO (BGY),No informado,RYANAIR DAC,Ireland,Il Caravaggio International Airport,Bergamo,Italy,BGY,RYR,170,Noche
+2025-11-22,21:30,RYR3488,LANZAROTE CÉSAR MANRIQUE (ACE),No informado,RYANAIR DAC,Ireland,Lanzarote Airport,Arrecife,Spain,ACE,RYR,170,Noche
+2025-11-22,21:30,WMT5155,TIRANA (TIA),No informado,Wizz Air Malta,Malta,Tirana International Airport Mother Teresa,Tirana,Albania,TIA,WMT,198,Noche
+2025-11-22,22:20,RYR2257,KOELN/BONN (CGN),No informado,RYANAIR DAC,Ireland,Cologne Bonn Airport,Cologne,Germany,CGN,RYR,170,Noche
+2025-11-22,22:25,RYR7373,PALMA DE MALLORCA (PMI),No informado,RYANAIR DAC,Ireland,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,RYR,170,Noche
+2025-11-22,22:40,RYR1971,TENERIFE SUR (TFS),No informado,RYANAIR DAC,Ireland,Tenerife South Airport,Tenerife,Spain,TFS,RYR,170,Noche
+2025-11-22,22:45,RYR2208,SEVILLA (SVQ),No informado,RYANAIR DAC,Ireland,Sevilla Airport,Sevilla,Spain,SVQ,RYR,170,Noche
+2025-11-22,23:00,KLM1535,AMSTERDAM /SCHIPHOL (AMS),No informado,KLM Royal Dutch Airlines,Netherlands,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,KLM,101,Noche
+2025-11-22,23:05,RYR1736,LONDRES /STANSTED (STN),No informado,RYANAIR DAC,Ireland,London Stansted Airport,London,United Kingdom,STN,RYR,170,Noche
+2025-11-22,23:10,AFR1492,PARIS /CHARLES DE GAULLE (CDG),No informado,Air France,France,Charles de Gaulle International Airport,Paris,France,CDG,AFR,80,Noche
+2025-11-22,23:10,RYR2147,BRUSELAS /CHARLEROI (CRL),No informado,RYANAIR DAC,Ireland,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,RYR,170,Noche
+2025-11-22,23:15,DLH1164,FRANKFURT (FRA),No informado,Lufthansa,Germany,Frankfurt am Main Airport,Frankfurt,Germany,FRA,DLH,159,Noche
+2025-11-22,23:30,TAP1096,LISBOA (LIS),No informado,TAP Portugal,Portugal,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,TAP,77,Noche
+2025-11-22,23:45,RYR7470,MILAN /MALPENSA (MXP),No informado,RYANAIR DAC,Ireland,Malpensa International Airport,Milano,Italy,MXP,RYR,170,Noche
+2025-11-22,23:55,RYR1768,LISBOA (LIS),No informado,RYANAIR DAC,Ireland,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,RYR,170,Noche
